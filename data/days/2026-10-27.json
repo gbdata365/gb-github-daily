@@ -11,8 +11,8 @@
           "name": "rea",
           "url": "https://github.com/morluto/rea",
           "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-          "stars": 392823,
-          "forks": 98450,
+          "stars": 392832,
+          "forks": 98453,
           "language": "TypeScript",
           "topics": [
             "agent-skills",
@@ -37,7 +37,7 @@
             "touhou"
           ],
           "created_at": "2026-04-14T00:51:32Z",
-          "updated_at": "2026-10-27T05:21:03Z",
+          "updated_at": "2026-10-27T05:23:14Z",
           "homepage": "https://rea.tools",
           "license": "MIT",
           "stars_change": null,
@@ -101,7 +101,7 @@
           "name": "ECC",
           "url": "https://github.com/affaan-m/ECC",
           "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-          "stars": 290018,
+          "stars": 290019,
           "forks": 42983,
           "language": "JavaScript",
           "topics": [
@@ -140,8 +140,8 @@
           "name": "deepseek-harness",
           "url": "https://github.com/deepseek-ai/deepseek-harness",
           "description": "DeepSeek Harness: Everything is a Plugin.",
-          "stars": 262856,
-          "forks": 31782,
+          "stars": 262857,
+          "forks": 31783,
           "language": "TypeScript",
           "topics": [
             "ai-agents",
@@ -194,7 +194,7 @@
             "openai"
           ],
           "created_at": "2025-07-22T22:22:28Z",
-          "updated_at": "2026-10-27T05:13:42Z",
+          "updated_at": "2026-10-27T05:22:59Z",
           "homepage": "https://hermes-agent.nousresearch.com",
           "license": "MIT",
           "stars_change": null,
@@ -269,7 +269,7 @@
           "name": "ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
           "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "stars": 177363,
+          "stars": 177366,
           "forks": 9696,
           "language": "JavaScript",
           "topics": [
@@ -361,8 +361,8 @@
           "name": "graphify",
           "url": "https://github.com/Graphify-Labs/graphify",
           "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-          "stars": 136314,
-          "forks": 13010,
+          "stars": 136316,
+          "forks": 13011,
           "language": "Python",
           "topics": [
             "ai-agents",
@@ -630,7 +630,7 @@
           "name": "yt-dlp",
           "url": "https://github.com/yt-dlp/yt-dlp",
           "description": "A feature-rich command-line audio/video downloader",
-          "stars": 202684,
+          "stars": 202685,
           "forks": 17754,
           "language": "Python",
           "topics": [
@@ -669,7 +669,7 @@
           "url": "https://github.com/tensorflow/tensorflow",
           "description": "An Open Source Machine Learning Framework for Everyone",
           "stars": 201286,
-          "forks": 78705,
+          "forks": 78706,
           "language": "C++",
           "topics": [
             "deep-learning",
@@ -788,7 +788,7 @@
           "name": "HelloGitHub",
           "url": "https://github.com/521xueweihan/HelloGitHub",
           "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-          "stars": 184793,
+          "stars": 184794,
           "forks": 13111,
           "language": "Python",
           "topics": [
@@ -917,7 +917,7 @@
           "name": "opencode",
           "url": "https://github.com/anomalyco/opencode",
           "description": "The open source coding agent.",
-          "stars": 222042,
+          "stars": 222043,
           "forks": 29706,
           "language": "TypeScript",
           "topics": [],
@@ -948,7 +948,7 @@
           "url": "https://github.com/ultraworkers/claw-code",
           "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
           "stars": 194981,
-          "forks": 107712,
+          "forks": 107711,
           "language": "Rust",
           "topics": [],
           "created_at": "2026-03-31T08:58:08Z",
@@ -977,7 +977,7 @@
           "name": "ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
           "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "stars": 177364,
+          "stars": 177366,
           "forks": 9696,
           "language": "JavaScript",
           "topics": [
@@ -1048,7 +1048,7 @@
           "name": "cc-switch",
           "url": "https://github.com/farion1231/cc-switch",
           "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-          "stars": 149075,
+          "stars": 149077,
           "forks": 9806,
           "language": "Rust",
           "topics": [
@@ -1155,7 +1155,7 @@
           "language": "Rust",
           "topics": [],
           "created_at": "2025-04-13T05:37:54Z",
-          "updated_at": "2026-10-27T05:18:00Z",
+          "updated_at": "2026-10-27T05:22:40Z",
           "homepage": "",
           "license": "Apache-2.0",
           "stars_change": null,
@@ -1351,7 +1351,7 @@
           "name": "paperclip",
           "url": "https://github.com/paperclipai/paperclip",
           "description": "The open-source app everyone uses to manage agents at work",
-          "stars": 107737,
+          "stars": 107738,
           "forks": 17869,
           "language": "TypeScript",
           "topics": [
@@ -1377,7 +1377,7 @@
             "workflow-automation"
           ],
           "created_at": "2026-03-02T15:01:51Z",
-          "updated_at": "2026-10-27T05:21:47Z",
+          "updated_at": "2026-10-27T05:22:24Z",
           "homepage": "https://paperclip.ing",
           "license": "MIT",
           "stars_change": null,
@@ -1476,7 +1476,7 @@
             "workflow-automation"
           ],
           "created_at": "2026-02-01T07:16:15Z",
-          "updated_at": "2026-10-27T05:19:22Z",
+          "updated_at": "2026-10-27T05:22:42Z",
           "homepage": "https://nanobot.wiki",
           "license": "MIT",
           "stars_change": null,
@@ -1555,7 +1555,7 @@
             "workflow-automation"
           ],
           "created_at": "2021-03-30T08:51:34Z",
-          "updated_at": "2026-10-27T05:19:39Z",
+          "updated_at": "2026-10-27T05:22:52Z",
           "homepage": "https://tooljet.com",
           "license": "AGPL-3.0",
           "stars_change": null,
@@ -1619,7 +1619,7 @@
           "name": "awesome-gpt-image-2",
           "url": "https://github.com/freestylefly/awesome-gpt-image-2",
           "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-          "stars": 35080,
+          "stars": 35081,
           "forks": 3328,
           "language": "JavaScript",
           "topics": [
@@ -2308,7 +2308,7 @@
           "name": "graphify",
           "url": "https://github.com/Graphify-Labs/graphify",
           "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-          "stars": 136314,
+          "stars": 136317,
           "forks": 13011,
           "language": "Python",
           "topics": [
@@ -2481,7 +2481,7 @@
             "search-harness"
           ],
           "created_at": "2023-12-12T06:13:13Z",
-          "updated_at": "2026-10-27T05:06:05Z",
+          "updated_at": "2026-10-27T05:22:21Z",
           "homepage": "https://ragflow.io",
           "license": "Apache-2.0",
           "stars_change": null,
