@@ -1,0 +1,16 @@
+{
+  "site_title": "GitHub Daily Open Source",
+  "per_category": 10,
+  "minimum_stars": 25,
+  "candidates_per_query": 30,
+  "max_ai_summaries_per_run": 70,
+  "categories": [
+    {"id":"ai-agents","label":"AI 에이전트","queries":["topic:ai-agents stars:>25 archived:false fork:false","topic:multi-agent stars:>25 archived:false fork:false"]},
+    {"id":"python","label":"Python 코딩","queries":["topic:python stars:>100 language:Python archived:false fork:false","topic:python-library stars:>25 archived:false fork:false"]},
+    {"id":"ai-coding","label":"AI 코딩 도구","queries":["topic:ai-coding-assistant stars:>25 archived:false fork:false","topic:coding-agent stars:>25 archived:false fork:false"]},
+    {"id":"automation","label":"업무 자동화","queries":["topic:automation stars:>25 archived:false fork:false","topic:workflow-automation stars:>25 archived:false fork:false"]},
+    {"id":"data","label":"데이터 분석","queries":["topic:data-analysis stars:>25 archived:false fork:false","topic:data-science stars:>25 archived:false fork:false"]},
+    {"id":"llm-rag","label":"LLM·RAG","queries":["topic:rag stars:>25 archived:false fork:false","topic:large-language-models stars:>25 archived:false fork:false"]},
+    {"id":"documents","label":"문서·보고서 자동화","queries":["topic:document-automation stars:>5 archived:false fork:false","topic:pdf-generation stars:>5 archived:false fork:false","topic:document-processing stars:>25 archived:false fork:false"]}
+  ]
+}
