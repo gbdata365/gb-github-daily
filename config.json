@@ -1,6 +1,9 @@
 {
   "site_title": "GitHub Daily Open Source",
+  "created_after": "2026-01-01",
   "per_category": 10,
+  "min_per_category": 5,
+  "keep_min_stars": 2000,
   "minimum_stars": 25,
   "candidates_per_query": 30,
   "max_ai_summaries_per_run": 70,

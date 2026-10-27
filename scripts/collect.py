@@ -21,7 +21,10 @@ DATA = ROOT / 'data'
 CONFIG = json.loads((ROOT / 'config.json').read_text(encoding='utf-8'))
 KST = dt.timezone(dt.timedelta(hours=9))
 TODAY = dt.datetime.now(KST).date().isoformat()
-LIMIT = int(CONFIG.get('per_category', 10))
+LIMIT = int(CONFIG.get('per_category', 10))            # 분야별 최대 개수
+MIN_PER = int(CONFIG.get('min_per_category', 5))        # 분야별 최소 개수
+KEEP_STARS = int(CONFIG.get('keep_min_stars', 0))       # 이 스타 이상만 싣되, 모자라면 최소 개수까지 스타 순으로 채움
+CREATED_AFTER = CONFIG.get('created_after', '')        # 이 날짜 이후 만들어진 저장소만(YYYY-MM-DD, 비우면 제한 없음)
 MIN_STARS = int(CONFIG.get('minimum_stars', 10))
 PER_QUERY = int(CONFIG.get('candidates_per_query', 30))
 MAX_AI = int(CONFIG.get('max_ai_summaries_per_run', 70))
@@ -39,6 +42,8 @@ EXCERPT_CHARS = 2500      # AI 에 근거로 줄 발췌 최대 길이
 
 def api_search(query, sort='stars', per_page=PER_QUERY):
     q = query if 'archived:' in query else query+' archived:false fork:false'
+    if CREATED_AFTER and 'created:' not in q:
+        q += ' created:>='+CREATED_AFTER
     for attempt in range(4):
         try:
             r = requests.get('https://api.github.com/search/repositories', headers=HEADERS,
@@ -148,20 +153,30 @@ def clean_repo(item):
        'homepage':item.get('homepage') or '', 'license':(item.get('license') or {}).get('spdx_id') or '미확인'}
 
 
-def rank_repos(candidates, old_stars):
+def star_pool(candidates):
+    """스타 기준으로 실을 후보 — KEEP_STARS 이상만, 모자라면 스타 순으로 MIN_PER 개까지 채움. 개수는 MIN_PER~LIMIT."""
+    by_star = sorted(candidates.values(), key=lambda x:(x['stars'],x['id']), reverse=True)
+    pool = [p for p in by_star if p['stars'] >= KEEP_STARS]
+    if len(pool) < MIN_PER:
+        pool = by_star[:MIN_PER]
+    return {p['id']:p for p in pool}, min(LIMIT, len(pool))
+
+
+def rank_repos(candidates, old_stars, limit=None):
+    limit = limit or LIMIT
     pool = list(candidates.values())
     for p in pool:
         p['stars_change'] = max(0, p['stars']-old_stars[p['id']]) if p['id'] in old_stars else None
     popular = sorted(pool,key=lambda x:(x['stars'],x['id']),reverse=True)
     rising = sorted((p for p in pool if p['stars_change'] is not None),key=lambda x:(x['stars_change'],x['stars']),reverse=True)
-    half = LIMIT // 2
+    half = (limit + 1) // 2
     chosen = popular[:half]; present = {r['id'] for r in chosen}
     for p in rising:
-        if len(chosen)>=LIMIT: break
+        if len(chosen)>=limit: break
         if p['id'] not in present:
             chosen.append(p);present.add(p['id'])
     for p in popular:
-        if len(chosen)>=LIMIT: break
+        if len(chosen)>=limit: break
         if p['id'] not in present:
             chosen.append(p);present.add(p['id'])
     for n,p in enumerate(chosen,1):
@@ -262,7 +277,8 @@ def main():
                 time.sleep(2.2)  # search API has stricter secondary limits
             except Exception as ex:
                 errors.append(f'{cat}: {query}: {ex}')
-        selected[cat]=rank_repos(candidates,old)
+        pool, limit = star_pool(candidates)
+        selected[cat]=rank_repos(pool,old,limit)
         print(cat,len(selected[cat]))
     if not any(selected.values()):
         raise RuntimeError('No repositories collected. Previous archive left untouched. '+ '; '.join(errors))
@@ -270,9 +286,11 @@ def main():
     DATA.mkdir(parents=True, exist_ok=True)
     (DATA/'days').mkdir(exist_ok=True)
     (DATA/'snapshots').mkdir(exist_ok=True)
-    day={'date':TODAY,'baseline_date':baseline,'limit_per_category':LIMIT,
+    day={'date':TODAY,'baseline_date':baseline,'limit_per_category':LIMIT,'created_after':CREATED_AFTER,
       'categories':[{'name':k,'repos':v} for k,v in selected.items()], 'errors':errors,
-      'methodology':f'누적 스타 상위 {LIMIT//2}개 + 직전 수집일 대비 스타 증가 상위 {LIMIT-LIMIT//2}개(비교 자료 없을 경우 누적 인기 보충). 분야별 검색 후보군 중에서 선정. '
+      'methodology':(f'{CREATED_AFTER} 이후 만들어진 저장소 중 ' if CREATED_AFTER else '')
+                    + f'스타 {KEEP_STARS:,}개 이상만 분야별 최대 {LIMIT}개(모자라면 스타 순으로 최소 {MIN_PER}개). '
+                    '그중 절반은 누적 스타 상위, 나머지는 직전 수집일 대비 스타 증가 상위(비교 자료 없으면 누적 인기 보충). '
                     '설명은 README 발췌를 근거로 Claude가 한국어로 요약(키가 없으면 README 원문 발췌).'}
     (DATA/'days'/f'{TODAY}.json').write_text(json.dumps(day,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     # Snapshot includes *all discovered candidates* so more candidates have delta next day.

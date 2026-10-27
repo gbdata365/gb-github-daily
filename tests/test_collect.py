@@ -2,7 +2,8 @@ import sys
 import unittest
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'scripts'))
-from collect import rank_repos, readme_digest
+import collect
+from collect import rank_repos, readme_digest, star_pool
 
 README = """# Tool
 ![badge](https://img.shields.io/x)
@@ -42,6 +43,28 @@ class TestRank(unittest.TestCase):
         self.assertEqual(len(got),10)
         self.assertEqual(len(set(p['id'] for p in got)),10)
         self.assertEqual(sum(p['selection']=='급상승' for p in got),5)
+
+class TestStarPool(unittest.TestCase):
+    def setUp(self):
+        self.saved=(collect.KEEP_STARS,collect.MIN_PER,collect.LIMIT)
+        collect.KEEP_STARS,collect.MIN_PER,collect.LIMIT=2000,5,10
+    def tearDown(self):
+        collect.KEEP_STARS,collect.MIN_PER,collect.LIMIT=self.saved
+    def cands(self,stars):
+        return {str(i):{'id':str(i),'stars':s} for i,s in enumerate(stars)}
+    def test_many_strong(self):          # 2천 이상이 많으면 최대 10개
+        pool,limit=star_pool(self.cands([5000+i for i in range(30)]))
+        self.assertEqual(limit,10)
+    def test_some_strong(self):          # 2천 이상이 6개면 6개
+        pool,limit=star_pool(self.cands([9000,8000,7000,6000,3000,2000,1999,500]))
+        self.assertEqual((limit,len(pool)),(6,6))
+    def test_few_strong(self):           # 2천 이상이 4개뿐이면 스타 순으로 5개까지 채움
+        pool,limit=star_pool(self.cands([9000,8000,3000,2500,1200,900,100]))
+        self.assertEqual(limit,5)
+        self.assertEqual(sorted(p['stars'] for p in pool.values()),[1200,2500,3000,8000,9000])
+    def test_rank_uses_limit(self):
+        pool,limit=star_pool(self.cands([9000,8000,7000,6000,3000,2000,1999]))
+        self.assertEqual(len(rank_repos(pool,{},limit)),6)
 
 class TestReadme(unittest.TestCase):
     def test_digest(self):
