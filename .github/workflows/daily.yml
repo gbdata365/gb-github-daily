@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write   # 수집 후 Pages 배포 워크플로를 호출하기 위해 필요
 concurrency:
   group: github-daily-update
   cancel-in-progress: false
@@ -38,3 +39,8 @@ jobs:
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
+      # GITHUB_TOKEN 으로 한 push 는 다른 워크플로(pages.yml)를 깨우지 않으므로 배포를 직접 호출한다
+      - name: Trigger Pages deploy
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run pages.yml --ref "${GITHUB_REF_NAME}"
