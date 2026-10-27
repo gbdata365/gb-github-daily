@@ -1,0 +1,2961 @@
+{
+  "date": "2026-10-27",
+  "baseline_date": null,
+  "limit_per_category": 10,
+  "categories": [
+    {
+      "name": "AI 에이전트",
+      "repos": [
+        {
+          "id": "morluto/rea",
+          "name": "rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "stars": 392823,
+          "forks": 98450,
+          "language": "TypeScript",
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "binary-analysis",
+            "claude-code",
+            "cli",
+            "codex",
+            "cordis",
+            "decompiler",
+            "developer-tools",
+            "dsh",
+            "dsh-plugin",
+            "ghidra",
+            "hopper",
+            "llm",
+            "mcp",
+            "model-context-protocol",
+            "rea",
+            "reverse-engineering",
+            "static-analysis",
+            "touhou"
+          ],
+          "created_at": "2026-04-14T00:51:32Z",
+          "updated_at": "2026-10-27T05:21:03Z",
+          "homepage": "https://rea.tools",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Reverse engineer anything with agents, from app behavior down to native binaries.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "obra/superpowers",
+          "name": "superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "stars": 305719,
+          "forks": 27231,
+          "language": "Shell",
+          "topics": [
+            "ai",
+            "brainstorming",
+            "coding",
+            "obra",
+            "sdlc",
+            "skills",
+            "subagent-driven-development",
+            "superpowers"
+          ],
+          "created_at": "2025-10-09T19:45:18Z",
+          "updated_at": "2026-10-23T03:48:57Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: An agentic skills framework & software development methodology that works.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "stars": 290018,
+          "forks": 42983,
+          "language": "JavaScript",
+          "topics": [
+            "ai-agents",
+            "anthropic",
+            "claude",
+            "claude-code",
+            "developer-tools",
+            "llm",
+            "mcp",
+            "productivity"
+          ],
+          "created_at": "2026-01-18T00:51:51Z",
+          "updated_at": "2026-10-26T04:56:56Z",
+          "homepage": "https://ecc.tools",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "deepseek-ai/deepseek-harness",
+          "name": "deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "stars": 262856,
+          "forks": 31782,
+          "language": "TypeScript",
+          "topics": [
+            "ai-agents",
+            "cordis",
+            "dsh",
+            "dsh-plugin"
+          ],
+          "created_at": "2026-08-13T11:56:32Z",
+          "updated_at": "2026-10-23T15:25:40Z",
+          "homepage": "https://deepseek.com/harness",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: DeepSeek Harness: Everything is a Plugin.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "NousResearch/hermes-agent",
+          "name": "hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "stars": 257474,
+          "forks": 56419,
+          "language": "Python",
+          "topics": [
+            "ai",
+            "ai-agent",
+            "ai-agents",
+            "anthropic",
+            "chatgpt",
+            "claude",
+            "claude-code",
+            "codex",
+            "hermes",
+            "hermes-agent",
+            "llm",
+            "nous-research",
+            "openai"
+          ],
+          "created_at": "2025-07-22T22:22:28Z",
+          "updated_at": "2026-10-27T05:13:42Z",
+          "homepage": "https://hermes-agent.nousresearch.com",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 5,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: The agent that grows with you",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "firecrawl/firecrawl",
+          "name": "firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+          "stars": 195756,
+          "forks": 10331,
+          "language": "TypeScript",
+          "topics": [
+            "ai",
+            "ai-agents",
+            "ai-crawler",
+            "ai-scraping",
+            "ai-search",
+            "crawler",
+            "data-extraction",
+            "html-to-markdown",
+            "llm",
+            "markdown",
+            "scraper",
+            "scraping",
+            "web-crawler",
+            "web-data",
+            "web-data-extraction",
+            "web-scraper",
+            "web-scraping",
+            "web-search",
+            "webscraping"
+          ],
+          "created_at": "2024-04-15T21:02:29Z",
+          "updated_at": "2026-10-27T03:06:22Z",
+          "homepage": "https://firecrawl.dev",
+          "license": "AGPL-3.0",
+          "stars_change": null,
+          "rank": 6,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "stars": 177363,
+          "forks": 9696,
+          "language": "JavaScript",
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "claude",
+            "claude-code",
+            "claude-code-plugin",
+            "cursor-rules",
+            "developer-tools",
+            "llm",
+            "prompt-engineering",
+            "yagni"
+          ],
+          "created_at": "2026-06-12T00:52:37Z",
+          "updated_at": "2026-10-18T01:55:14Z",
+          "homepage": "https://ponytail.dev",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 7,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "langchain-ai/langchain",
+          "name": "langchain",
+          "url": "https://github.com/langchain-ai/langchain",
+          "description": "The agent engineering platform.",
+          "stars": 148532,
+          "forks": 24934,
+          "language": "Python",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "anthropic",
+            "chatgpt",
+            "deepagents",
+            "enterprise",
+            "framework",
+            "gemini",
+            "generative-ai",
+            "langchain",
+            "langgraph",
+            "llm",
+            "multiagent",
+            "open-source",
+            "openai",
+            "pydantic",
+            "python",
+            "rag",
+            "typescript"
+          ],
+          "created_at": "2022-10-17T02:58:36Z",
+          "updated_at": "2026-10-27T02:53:04Z",
+          "homepage": "https://docs.langchain.com/langchain/",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 8,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: The agent engineering platform.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "Graphify-Labs/graphify",
+          "name": "graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "stars": 136314,
+          "forks": 13010,
+          "language": "Python",
+          "topics": [
+            "ai-agents",
+            "antigravity",
+            "ast",
+            "claude-code",
+            "code-analysis",
+            "code-search",
+            "codex",
+            "cursor",
+            "developer-tools",
+            "gemini",
+            "graphify",
+            "graphrag",
+            "knowledge-graph",
+            "leiden",
+            "llm",
+            "mcp",
+            "openclaw",
+            "rag",
+            "skills",
+            "tree-sitter"
+          ],
+          "created_at": "2026-04-03T15:49:07Z",
+          "updated_at": "2026-10-26T15:18:22Z",
+          "homepage": "https://www.graphify.com",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 9,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "browser-use/browser-use",
+          "name": "browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+          "stars": 119238,
+          "forks": 13263,
+          "language": "Python",
+          "topics": [
+            "ai-agents",
+            "ai-tools",
+            "browser-agent",
+            "browser-automation",
+            "browser-use",
+            "cdp",
+            "cloud-browser",
+            "computer-use",
+            "headless-browser",
+            "llm",
+            "mcp",
+            "playwright",
+            "python",
+            "remote-browser",
+            "stealth-browser",
+            "web-automation",
+            "web-scraping"
+          ],
+          "created_at": "2024-10-31T16:00:56Z",
+          "updated_at": "2026-10-27T00:02:24Z",
+          "homepage": "https://browser-use.com",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 10,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 에이전트"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Python 코딩",
+      "repos": [
+        {
+          "id": "donnemartin/system-design-primer",
+          "name": "system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+          "stars": 375738,
+          "forks": 59011,
+          "language": "Python",
+          "topics": [
+            "design",
+            "design-patterns",
+            "design-system",
+            "development",
+            "interview",
+            "interview-practice",
+            "interview-questions",
+            "programming",
+            "python",
+            "system",
+            "web",
+            "web-application",
+            "webapp"
+          ],
+          "created_at": "2017-02-26T16:15:28Z",
+          "updated_at": "2026-09-15T01:10:09Z",
+          "homepage": "",
+          "license": "NOASSERTION",
+          "stars_change": null,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "vinta/awesome-python",
+          "name": "awesome-python",
+          "url": "https://github.com/vinta/awesome-python",
+          "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+          "stars": 330517,
+          "forks": 29015,
+          "language": "Python",
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "python",
+            "python-frameworks",
+            "python-libraries",
+            "python-tools"
+          ],
+          "created_at": "2014-06-27T21:00:06Z",
+          "updated_at": "2026-10-26T04:44:34Z",
+          "homepage": "https://awesome-python.com/",
+          "license": "NOASSERTION",
+          "stars_change": null,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "practical-tutorials/project-based-learning",
+          "name": "project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Curated list of project-based tutorials",
+          "stars": 288130,
+          "forks": 36729,
+          "language": "Python",
+          "topics": [
+            "beginner-project",
+            "cpp",
+            "golang",
+            "javascript",
+            "project",
+            "python",
+            "tutorial",
+            "webdevelopment"
+          ],
+          "created_at": "2017-04-12T05:07:46Z",
+          "updated_at": "2026-10-26T07:13:08Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Curated list of project-based tutorials",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "TheAlgorithms/Python",
+          "name": "Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "stars": 225558,
+          "forks": 51225,
+          "language": "Python",
+          "topics": [
+            "algorithm",
+            "algorithm-competitions",
+            "algorithms-implemented",
+            "algos",
+            "community-driven",
+            "education",
+            "hacktoberfest",
+            "interview",
+            "learn",
+            "practice",
+            "python",
+            "searches",
+            "sorting-algorithms",
+            "sorts"
+          ],
+          "created_at": "2016-07-16T09:44:01Z",
+          "updated_at": "2026-10-20T05:01:26Z",
+          "homepage": "https://thealgorithms.github.io/Python/",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: All Algorithms implemented in Python",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "yt-dlp/yt-dlp",
+          "name": "yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "stars": 202684,
+          "forks": 17754,
+          "language": "Python",
+          "topics": [
+            "cli",
+            "downloader",
+            "python",
+            "sponsorblock",
+            "youtube-dl",
+            "youtube-downloader",
+            "yt-dlp"
+          ],
+          "created_at": "2020-10-26T04:22:55Z",
+          "updated_at": "2026-10-26T22:25:00Z",
+          "homepage": "https://discord.gg/H5MNcFW63r",
+          "license": "Unlicense",
+          "stars_change": null,
+          "rank": 5,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: A feature-rich command-line audio/video downloader",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "tensorflow/tensorflow",
+          "name": "tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "stars": 201286,
+          "forks": 78705,
+          "language": "C++",
+          "topics": [
+            "deep-learning",
+            "deep-neural-networks",
+            "distributed",
+            "machine-learning",
+            "ml",
+            "neural-network",
+            "python",
+            "tensorflow"
+          ],
+          "created_at": "2015-11-07T01:19:20Z",
+          "updated_at": "2026-10-27T05:17:41Z",
+          "homepage": "https://tensorflow.org",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 6,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: An Open Source Machine Learning Framework for Everyone",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "Significant-Gravitas/AutoGPT",
+          "name": "AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+          "stars": 187784,
+          "forks": 45902,
+          "language": "Python",
+          "topics": [
+            "agentic-ai",
+            "agents",
+            "ai",
+            "artificial-intelligence",
+            "autonomous-agents",
+            "claude",
+            "gpt",
+            "llama-api",
+            "llm",
+            "openai",
+            "python"
+          ],
+          "created_at": "2023-03-16T09:21:07Z",
+          "updated_at": "2026-10-27T05:06:03Z",
+          "homepage": "https://agpt.co",
+          "license": "NOASSERTION",
+          "stars_change": null,
+          "rank": 7,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "CyC2018/CS-Notes",
+          "name": "CS-Notes",
+          "url": "https://github.com/CyC2018/CS-Notes",
+          "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+          "stars": 186351,
+          "forks": 50662,
+          "language": "Python",
+          "topics": [
+            "algorithm",
+            "computer-science",
+            "cpp",
+            "interview",
+            "java",
+            "leetcode",
+            "python",
+            "system-design"
+          ],
+          "created_at": "2018-02-13T14:56:24Z",
+          "updated_at": "2026-10-26T21:10:02Z",
+          "homepage": "http://cyc2018.xyz",
+          "license": "미확인",
+          "stars_change": null,
+          "rank": 8,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "521xueweihan/HelloGitHub",
+          "name": "HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "stars": 184793,
+          "forks": 13111,
+          "language": "Python",
+          "topics": [
+            "awesome",
+            "github",
+            "hellogithub",
+            "python"
+          ],
+          "created_at": "2016-05-04T06:24:11Z",
+          "updated_at": "2026-09-28T00:11:38Z",
+          "homepage": "https://hellogithub.com",
+          "license": "미확인",
+          "stars_change": null,
+          "rank": 9,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "huggingface/transformers",
+          "name": "transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+          "stars": 168222,
+          "forks": 35003,
+          "language": "Python",
+          "topics": [
+            "audio",
+            "deep-learning",
+            "deepseek",
+            "gemma",
+            "glm",
+            "hacktoberfest",
+            "llm",
+            "machine-learning",
+            "model-hub",
+            "natural-language-processing",
+            "nlp",
+            "pretrained-models",
+            "python",
+            "pytorch",
+            "pytorch-transformers",
+            "qwen",
+            "speech-recognition",
+            "transformer",
+            "vlm"
+          ],
+          "created_at": "2018-10-29T13:56:00Z",
+          "updated_at": "2026-10-27T03:18:05Z",
+          "homepage": "https://huggingface.co/transformers",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 10,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "Python 코딩"
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI 코딩 도구",
+      "repos": [
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "stars": 290019,
+          "forks": 42983,
+          "language": "JavaScript",
+          "topics": [
+            "ai-agents",
+            "anthropic",
+            "claude",
+            "claude-code",
+            "developer-tools",
+            "llm",
+            "mcp",
+            "productivity"
+          ],
+          "created_at": "2026-01-18T00:51:51Z",
+          "updated_at": "2026-10-26T04:56:56Z",
+          "homepage": "https://ecc.tools",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "anomalyco/opencode",
+          "name": "opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "stars": 222042,
+          "forks": 29706,
+          "language": "TypeScript",
+          "topics": [],
+          "created_at": "2025-04-30T20:08:00Z",
+          "updated_at": "2026-10-27T05:19:35Z",
+          "homepage": "https://opencode.ai",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: The open source coding agent.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "ultraworkers/claw-code",
+          "name": "claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+          "stars": 194981,
+          "forks": 107712,
+          "language": "Rust",
+          "topics": [],
+          "created_at": "2026-03-31T08:58:08Z",
+          "updated_at": "2026-10-23T14:02:42Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "stars": 177364,
+          "forks": 9696,
+          "language": "JavaScript",
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "claude",
+            "claude-code",
+            "claude-code-plugin",
+            "cursor-rules",
+            "developer-tools",
+            "llm",
+            "prompt-engineering",
+            "yagni"
+          ],
+          "created_at": "2026-06-12T00:52:37Z",
+          "updated_at": "2026-10-18T01:55:14Z",
+          "homepage": "https://ponytail.dev",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "anthropics/claude-code",
+          "name": "claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "stars": 153494,
+          "forks": 26051,
+          "language": "TypeScript",
+          "topics": [],
+          "created_at": "2025-02-22T17:41:21Z",
+          "updated_at": "2026-10-26T23:13:01Z",
+          "homepage": "https://code.claude.com/docs/en/overview",
+          "license": "미확인",
+          "stars_change": null,
+          "rank": 5,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "farion1231/cc-switch",
+          "name": "cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+          "stars": 149075,
+          "forks": 9806,
+          "language": "Rust",
+          "topics": [
+            "ai-tools",
+            "claude-code",
+            "codex",
+            "desktop-app",
+            "grok",
+            "grokbuild",
+            "hermes",
+            "hermes-agent",
+            "mcp",
+            "open-source",
+            "openclaw",
+            "openclaw-ui",
+            "opencode",
+            "pi",
+            "provider-management",
+            "rust",
+            "skills",
+            "skills-management",
+            "tauri",
+            "wsl-support"
+          ],
+          "created_at": "2025-08-04T14:16:16Z",
+          "updated_at": "2026-10-27T02:10:38Z",
+          "homepage": "https://ccswitch.io",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 6,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "name": "system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+          "stars": 144284,
+          "forks": 34702,
+          "language": "기타",
+          "topics": [
+            "ai",
+            "bolt",
+            "cluely",
+            "copilot",
+            "cursor",
+            "cursorai",
+            "devin",
+            "github-copilot",
+            "lovable",
+            "open-source",
+            "perplexity",
+            "replit",
+            "system-prompts",
+            "trae",
+            "trae-ai",
+            "trae-ide",
+            "v0",
+            "vscode",
+            "windsurf",
+            "windsurf-ai"
+          ],
+          "created_at": "2025-03-05T16:38:29Z",
+          "updated_at": "2026-10-12T15:19:01Z",
+          "homepage": "",
+          "license": "GPL-3.0",
+          "stars_change": null,
+          "rank": 7,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "openai/codex",
+          "name": "codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "stars": 131064,
+          "forks": 20699,
+          "language": "Rust",
+          "topics": [],
+          "created_at": "2025-04-13T05:37:54Z",
+          "updated_at": "2026-10-27T05:18:00Z",
+          "homepage": "",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 8,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Lightweight coding agent that runs in your terminal",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "VoltAgent/awesome-design-md",
+          "name": "awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+          "stars": 123786,
+          "forks": 13737,
+          "language": "기타",
+          "topics": [
+            "awesome-list",
+            "design-md",
+            "design-system",
+            "design-tokens",
+            "figma",
+            "landing-page",
+            "vibe-coding",
+            "vibe-design",
+            "vibecoding"
+          ],
+          "created_at": "2026-03-31T16:37:01Z",
+          "updated_at": "2026-10-14T05:46:48Z",
+          "homepage": "https://getdesign.md/",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 9,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "earendil-works/pi",
+          "name": "pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "stars": 118080,
+          "forks": 15131,
+          "language": "TypeScript",
+          "topics": [],
+          "created_at": "2025-08-09T14:03:50Z",
+          "updated_at": "2026-10-27T00:55:48Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 10,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "AI 코딩 도구"
+          }
+        }
+      ]
+    },
+    {
+      "name": "업무 자동화",
+      "repos": [
+        {
+          "id": "n8n-io/n8n",
+          "name": "n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+          "stars": 208702,
+          "forks": 61260,
+          "language": "TypeScript",
+          "topics": [
+            "ai",
+            "apis",
+            "automation",
+            "cli",
+            "data-flow",
+            "development",
+            "integration-framework",
+            "integrations",
+            "ipaas",
+            "low-code",
+            "low-code-platform",
+            "mcp",
+            "mcp-client",
+            "mcp-server",
+            "n8n",
+            "no-code",
+            "self-hosted",
+            "typescript",
+            "workflow",
+            "workflow-automation"
+          ],
+          "created_at": "2019-06-22T09:24:21Z",
+          "updated_at": "2026-10-27T05:13:58Z",
+          "homepage": "https://n8n.io",
+          "license": "NOASSERTION",
+          "stars_change": null,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "harry0703/MoneyPrinterTurbo",
+          "name": "MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "stars": 135548,
+          "forks": 21505,
+          "language": "Python",
+          "topics": [
+            "ai-video-generator",
+            "content-creation",
+            "ffmpeg",
+            "instagram-reels",
+            "llm",
+            "python",
+            "short-video",
+            "subtitles",
+            "text-to-speech",
+            "tiktok",
+            "video-automation",
+            "video-workflow",
+            "workflow-automation",
+            "youtube-shorts"
+          ],
+          "created_at": "2024-03-11T02:57:34Z",
+          "updated_at": "2026-10-27T03:27:17Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "paperclipai/paperclip",
+          "name": "paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "stars": 107737,
+          "forks": 17869,
+          "language": "TypeScript",
+          "topics": [
+            "acpx",
+            "agent-orchestration",
+            "agent-skills",
+            "agentic-ai",
+            "ai-agents",
+            "ai-engineering",
+            "ai-governance",
+            "ai-tools",
+            "autonomous-agents",
+            "claude",
+            "claude-code",
+            "claude-skills",
+            "codex",
+            "hermes",
+            "llm",
+            "mcp",
+            "multi-agent",
+            "openclaw",
+            "project-management",
+            "workflow-automation"
+          ],
+          "created_at": "2026-03-02T15:01:51Z",
+          "updated_at": "2026-10-27T05:21:47Z",
+          "homepage": "https://paperclip.ing",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: The open-source app everyone uses to manage agents at work",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "ComposioHQ/awesome-claude-skills",
+          "name": "awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "stars": 78029,
+          "forks": 9356,
+          "language": "Python",
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "antigravity",
+            "automation",
+            "claude",
+            "claude-code",
+            "codex",
+            "composio",
+            "cursor",
+            "developer-tools",
+            "gemini-cli",
+            "mcp",
+            "openai-codex",
+            "rube",
+            "saas",
+            "skill",
+            "workflow-automation"
+          ],
+          "created_at": "2025-10-17T07:15:01Z",
+          "updated_at": "2026-09-18T07:16:11Z",
+          "homepage": "",
+          "license": "미확인",
+          "stars_change": null,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "HKUDS/nanobot",
+          "name": "nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+          "stars": 49441,
+          "forks": 8684,
+          "language": "Python",
+          "topics": [
+            "agent-framework",
+            "ai-agent",
+            "ai-agents",
+            "chatbot",
+            "chatops",
+            "discord-bot",
+            "llm-agents",
+            "llms",
+            "local-llm",
+            "mcp",
+            "model-context-protocol",
+            "multi-agent",
+            "openai-compatible",
+            "openclaw",
+            "personal-ai-assistant",
+            "python",
+            "self-hosted",
+            "telegram-bot-ai-assistant",
+            "webui",
+            "workflow-automation"
+          ],
+          "created_at": "2026-02-01T07:16:15Z",
+          "updated_at": "2026-10-27T05:19:22Z",
+          "homepage": "https://nanobot.wiki",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 5,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "vercel-labs/agent-browser",
+          "name": "agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description": "Browser automation CLI for AI agents",
+          "stars": 44667,
+          "forks": 3064,
+          "language": "Rust",
+          "topics": [],
+          "created_at": "2026-01-11T05:38:15Z",
+          "updated_at": "2026-10-27T03:33:56Z",
+          "homepage": "https://agent-browser.dev",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 6,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Browser automation CLI for AI agents",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "ToolJet/ToolJet",
+          "name": "ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "description": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
+          "stars": 41130,
+          "forks": 5503,
+          "language": "HTML",
+          "topics": [
+            "ai-app-builder",
+            "docker",
+            "internal-applications",
+            "internal-project",
+            "internal-tool",
+            "internal-tools",
+            "javascript",
+            "kubernetes",
+            "low-code",
+            "low-code-development-platform",
+            "low-code-framework",
+            "no-code",
+            "nodejs",
+            "reactjs",
+            "self-hosted",
+            "typescript",
+            "web-development-tools",
+            "workflow-automation"
+          ],
+          "created_at": "2021-03-30T08:51:34Z",
+          "updated_at": "2026-10-27T05:19:39Z",
+          "homepage": "https://tooljet.com",
+          "license": "AGPL-3.0",
+          "stars_change": null,
+          "rank": 7,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "lightpanda-io/browser",
+          "name": "browser",
+          "url": "https://github.com/lightpanda-io/browser",
+          "description": "Lightpanda: the headless browser designed for AI and automation",
+          "stars": 37025,
+          "forks": 1791,
+          "language": "Zig",
+          "topics": [
+            "browser",
+            "browser-automation",
+            "cdp",
+            "headless",
+            "lightpanda",
+            "playwright",
+            "puppeteer",
+            "zig"
+          ],
+          "created_at": "2023-02-07T15:19:34Z",
+          "updated_at": "2026-10-27T05:00:39Z",
+          "homepage": "https://lightpanda.io",
+          "license": "AGPL-3.0",
+          "stars_change": null,
+          "rank": 8,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Lightpanda: the headless browser designed for AI and automation",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "freestylefly/awesome-gpt-image-2",
+          "name": "awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+          "stars": 35080,
+          "forks": 3328,
+          "language": "JavaScript",
+          "topics": [
+            "agents",
+            "ai-image-generation",
+            "chatgpt",
+            "dsh-plugin",
+            "gpt-image-2",
+            "image-prompts",
+            "prompt-as-code",
+            "prompt-engineering",
+            "skills",
+            "workflow-automation"
+          ],
+          "created_at": "2026-04-25T09:19:13Z",
+          "updated_at": "2026-10-14T08:48:21Z",
+          "homepage": "https://gpt-image2.canghe.ai",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 9,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "SeleniumHQ/selenium",
+          "name": "selenium",
+          "url": "https://github.com/SeleniumHQ/selenium",
+          "description": "A browser automation framework and ecosystem.",
+          "stars": 34567,
+          "forks": 8730,
+          "language": "Java",
+          "topics": [
+            "dotnet",
+            "java",
+            "javascript",
+            "python",
+            "ruby",
+            "rust",
+            "selenium",
+            "webdriver"
+          ],
+          "created_at": "2013-01-14T21:40:56Z",
+          "updated_at": "2026-10-27T01:06:31Z",
+          "homepage": "https://selenium.dev",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 10,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: A browser automation framework and ecosystem.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "업무 자동화"
+          }
+        }
+      ]
+    },
+    {
+      "name": "데이터 분석",
+      "repos": [
+        {
+          "id": "d3/d3",
+          "name": "d3",
+          "url": "https://github.com/d3/d3",
+          "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+          "stars": 113803,
+          "forks": 22656,
+          "language": "Shell",
+          "topics": [
+            "chart",
+            "charts",
+            "d3",
+            "data-visualization",
+            "svg",
+            "visualization"
+          ],
+          "created_at": "2010-09-27T17:22:42Z",
+          "updated_at": "2026-10-21T22:24:11Z",
+          "homepage": "https://d3js.org",
+          "license": "ISC",
+          "stars_change": null,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "netdata/netdata",
+          "name": "netdata",
+          "url": "https://github.com/netdata/netdata",
+          "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+          "stars": 81166,
+          "forks": 6699,
+          "language": "Go",
+          "topics": [
+            "ai",
+            "alerting",
+            "cncf",
+            "data-visualization",
+            "database",
+            "devops",
+            "docker",
+            "grafana",
+            "influxdb",
+            "kubernetes",
+            "linux",
+            "machine-learning",
+            "mcp",
+            "mongodb",
+            "monitoring",
+            "mysql",
+            "netdata",
+            "observability",
+            "postgresql",
+            "prometheus"
+          ],
+          "created_at": "2013-06-17T18:39:10Z",
+          "updated_at": "2026-10-27T00:21:12Z",
+          "homepage": "https://www.netdata.cloud",
+          "license": "GPL-3.0",
+          "stars_change": null,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: The fastest path to AI-powered full stack observability, even for lean teams.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "grafana/grafana",
+          "name": "grafana",
+          "url": "https://github.com/grafana/grafana",
+          "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+          "stars": 77537,
+          "forks": 14867,
+          "language": "TypeScript",
+          "topics": [
+            "alerting",
+            "analytics",
+            "business-intelligence",
+            "dashboard",
+            "data-visualization",
+            "elasticsearch",
+            "go",
+            "grafana",
+            "hacktoberfest",
+            "influxdb",
+            "metrics",
+            "monitoring",
+            "mysql",
+            "postgres",
+            "prometheus"
+          ],
+          "created_at": "2013-12-11T15:59:56Z",
+          "updated_at": "2026-10-27T04:49:27Z",
+          "homepage": "https://grafana.com",
+          "license": "AGPL-3.0",
+          "stars_change": null,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "apache/superset",
+          "name": "superset",
+          "url": "https://github.com/apache/superset",
+          "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+          "stars": 75324,
+          "forks": 18533,
+          "language": "Python",
+          "topics": [
+            "analytics",
+            "apache",
+            "apache-superset",
+            "asf",
+            "bi",
+            "business-analytics",
+            "business-intelligence",
+            "data-analysis",
+            "data-analytics",
+            "data-engineering",
+            "data-science",
+            "data-visualization",
+            "data-viz",
+            "flask",
+            "python",
+            "react",
+            "sql-editor",
+            "superset"
+          ],
+          "created_at": "2015-07-21T18:55:34Z",
+          "updated_at": "2026-10-27T05:20:10Z",
+          "homepage": "https://superset.apache.org/",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Apache Superset is a Data Visualization and Data Exploration Platform",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "scikit-learn/scikit-learn",
+          "name": "scikit-learn",
+          "url": "https://github.com/scikit-learn/scikit-learn",
+          "description": "scikit-learn: machine learning in Python",
+          "stars": 67945,
+          "forks": 27593,
+          "language": "Python",
+          "topics": [
+            "data-analysis",
+            "data-science",
+            "machine-learning",
+            "python",
+            "statistics"
+          ],
+          "created_at": "2010-08-17T09:43:38Z",
+          "updated_at": "2026-10-26T14:13:29Z",
+          "homepage": "https://scikit-learn.org",
+          "license": "BSD-3-Clause",
+          "stars_change": null,
+          "rank": 5,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: scikit-learn: machine learning in Python",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "apache/echarts",
+          "name": "echarts",
+          "url": "https://github.com/apache/echarts",
+          "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+          "stars": 67608,
+          "forks": 19863,
+          "language": "TypeScript",
+          "topics": [
+            "apache",
+            "canvas",
+            "charting-library",
+            "charts",
+            "data-visualization",
+            "data-viz",
+            "echarts",
+            "svg",
+            "visualization"
+          ],
+          "created_at": "2013-04-03T03:18:59Z",
+          "updated_at": "2026-10-13T09:27:20Z",
+          "homepage": "https://echarts.apache.org",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 6,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "sansan0/TrendRadar",
+          "name": "TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+          "stars": 63216,
+          "forks": 24896,
+          "language": "Python",
+          "topics": [
+            "ai",
+            "bark",
+            "data-analysis",
+            "docker",
+            "hot-news",
+            "llm",
+            "mail",
+            "mcp",
+            "mcp-server",
+            "news",
+            "ntfy",
+            "python",
+            "rss",
+            "trending-topics",
+            "wechat",
+            "wework"
+          ],
+          "created_at": "2025-04-28T11:42:16Z",
+          "updated_at": "2026-10-20T11:24:10Z",
+          "homepage": "https://trendradar.sandev.cc",
+          "license": "GPL-3.0",
+          "stars_change": null,
+          "rank": 7,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "cathrynlavery/diagram-design",
+          "name": "diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "stars": 61468,
+          "forks": 4004,
+          "language": "HTML",
+          "topics": [
+            "agent-skills",
+            "claude-code",
+            "codex",
+            "data-visualization",
+            "diagrams",
+            "drawio",
+            "mermaid",
+            "svg"
+          ],
+          "created_at": "2026-04-16T18:01:16Z",
+          "updated_at": "2026-10-26T21:42:18Z",
+          "homepage": "https://diagramdesign.dev",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 8,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "K-Dense-AI/scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "stars": 54809,
+          "forks": 4831,
+          "language": "Python",
+          "topics": [
+            "agent-skills",
+            "ai-scientist",
+            "bioinformatics",
+            "chemoinformatics",
+            "claude",
+            "claude-skills",
+            "claudecode",
+            "clinical-research",
+            "computational-biology",
+            "data-analysis",
+            "drug-discovery",
+            "genomics",
+            "materials-science",
+            "metabolomics",
+            "proteomics",
+            "scientific-computing",
+            "scientific-visualization"
+          ],
+          "created_at": "2025-10-19T20:54:15Z",
+          "updated_at": "2026-10-26T09:36:15Z",
+          "homepage": "https://arxiv.org/abs/2609.00065",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 9,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "pandas-dev/pandas",
+          "name": "pandas",
+          "url": "https://github.com/pandas-dev/pandas",
+          "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+          "stars": 50305,
+          "forks": 20620,
+          "language": "Python",
+          "topics": [
+            "alignment",
+            "data-analysis",
+            "data-science",
+            "flexible",
+            "pandas",
+            "python"
+          ],
+          "created_at": "2010-08-24T01:37:33Z",
+          "updated_at": "2026-10-27T00:45:07Z",
+          "homepage": "https://pandas.pydata.org",
+          "license": "BSD-3-Clause",
+          "stars_change": null,
+          "rank": 10,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "데이터 분석"
+          }
+        }
+      ]
+    },
+    {
+      "name": "LLM·RAG",
+      "repos": [
+        {
+          "id": "open-webui/open-webui",
+          "name": "open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "stars": 156874,
+          "forks": 22843,
+          "language": "Python",
+          "topics": [
+            "ai",
+            "llm",
+            "llm-ui",
+            "llm-webui",
+            "llms",
+            "mcp",
+            "ollama",
+            "ollama-webui",
+            "open-webui",
+            "openai",
+            "openapi",
+            "rag",
+            "self-hosted",
+            "ui",
+            "webui"
+          ],
+          "created_at": "2023-10-06T22:08:27Z",
+          "updated_at": "2026-10-27T00:10:13Z",
+          "homepage": "https://openwebui.com",
+          "license": "NOASSERTION",
+          "stars_change": null,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "langflow-ai/langflow",
+          "name": "langflow",
+          "url": "https://github.com/langflow-ai/langflow",
+          "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+          "stars": 156048,
+          "forks": 10250,
+          "language": "Python",
+          "topics": [
+            "agents",
+            "chatgpt",
+            "generative-ai",
+            "large-language-models",
+            "multiagent",
+            "react-flow"
+          ],
+          "created_at": "2023-02-08T22:28:03Z",
+          "updated_at": "2026-10-27T00:37:31Z",
+          "homepage": "http://www.langflow.org",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "langchain-ai/langchain",
+          "name": "langchain",
+          "url": "https://github.com/langchain-ai/langchain",
+          "description": "The agent engineering platform.",
+          "stars": 148532,
+          "forks": 24934,
+          "language": "Python",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "anthropic",
+            "chatgpt",
+            "deepagents",
+            "enterprise",
+            "framework",
+            "gemini",
+            "generative-ai",
+            "langchain",
+            "langgraph",
+            "llm",
+            "multiagent",
+            "open-source",
+            "openai",
+            "pydantic",
+            "python",
+            "rag",
+            "typescript"
+          ],
+          "created_at": "2022-10-17T02:58:36Z",
+          "updated_at": "2026-10-27T02:53:04Z",
+          "homepage": "https://docs.langchain.com/langchain/",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: The agent engineering platform.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "Shubhamsaboo/awesome-llm-apps",
+          "name": "awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+          "stars": 143183,
+          "forks": 21070,
+          "language": "Python",
+          "topics": [
+            "agents",
+            "llms",
+            "python",
+            "rag"
+          ],
+          "created_at": "2024-04-29T05:30:25Z",
+          "updated_at": "2026-10-22T19:10:10Z",
+          "homepage": "https://www.theunwindai.com",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "Graphify-Labs/graphify",
+          "name": "graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "stars": 136314,
+          "forks": 13011,
+          "language": "Python",
+          "topics": [
+            "ai-agents",
+            "antigravity",
+            "ast",
+            "claude-code",
+            "code-analysis",
+            "code-search",
+            "codex",
+            "cursor",
+            "developer-tools",
+            "gemini",
+            "graphify",
+            "graphrag",
+            "knowledge-graph",
+            "leiden",
+            "llm",
+            "mcp",
+            "openclaw",
+            "rag",
+            "skills",
+            "tree-sitter"
+          ],
+          "created_at": "2026-04-03T15:49:07Z",
+          "updated_at": "2026-10-26T15:18:22Z",
+          "homepage": "https://www.graphify.com",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 5,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "rasbt/LLMs-from-scratch",
+          "name": "LLMs-from-scratch",
+          "url": "https://github.com/rasbt/LLMs-from-scratch",
+          "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "stars": 107372,
+          "forks": 16544,
+          "language": "Jupyter Notebook",
+          "topics": [
+            "ai",
+            "artificial-intelligence",
+            "attention-mechanism",
+            "deep-learning",
+            "finetuning",
+            "from-scratch",
+            "generative-ai",
+            "gpt",
+            "instruction-tuning",
+            "language-model",
+            "large-language-models",
+            "llm",
+            "machine-learning",
+            "natural-language-processing",
+            "pretraining",
+            "python",
+            "pytorch",
+            "tokenizer",
+            "transformers"
+          ],
+          "created_at": "2023-07-23T18:15:57Z",
+          "updated_at": "2026-10-02T14:55:52Z",
+          "homepage": "https://amzn.to/4fqvn0D",
+          "license": "NOASSERTION",
+          "stars_change": null,
+          "rank": 6,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "thedotmack/claude-mem",
+          "name": "claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "stars": 103493,
+          "forks": 9134,
+          "language": "TypeScript",
+          "topics": [
+            "ai",
+            "ai-agents",
+            "ai-memory",
+            "anthropic",
+            "artificial-intelligence",
+            "chromadb",
+            "claude",
+            "claude-agent-sdk",
+            "claude-agents",
+            "claude-code",
+            "claude-code-plugin",
+            "claude-skills",
+            "embeddings",
+            "long-term-memory",
+            "mem0",
+            "memory-engine",
+            "openmemory",
+            "rag",
+            "sqlite",
+            "supermemory"
+          ],
+          "created_at": "2025-08-31T20:50:03Z",
+          "updated_at": "2026-10-26T23:57:05Z",
+          "homepage": "https://claude-mem.ai",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 7,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "infiniflow/ragflow",
+          "name": "ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+          "stars": 92934,
+          "forks": 11123,
+          "language": "Go",
+          "topics": [
+            "agent-harness",
+            "agentic-ai",
+            "agentic-nagive",
+            "agentic-retrieval",
+            "agentic-search",
+            "ai",
+            "ai-agents",
+            "context-engine",
+            "context-engineering",
+            "context-management",
+            "harness-engineering",
+            "knowledge-compilation",
+            "rag",
+            "retrieval-augmented-generation",
+            "search-harness"
+          ],
+          "created_at": "2023-12-12T06:13:13Z",
+          "updated_at": "2026-10-27T05:06:05Z",
+          "homepage": "https://ragflow.io",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 8,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "PaddlePaddle/PaddleOCR",
+          "name": "PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+          "stars": 91738,
+          "forks": 11566,
+          "language": "Python",
+          "topics": [
+            "ai4science",
+            "chineseocr",
+            "document-parsing",
+            "document-translation",
+            "kie",
+            "ocr",
+            "paddleocr-vl",
+            "pdf-extractor-rag",
+            "pdf-parser",
+            "pdf2markdown",
+            "pp-ocr",
+            "pp-structure",
+            "rag"
+          ],
+          "created_at": "2020-05-08T10:38:16Z",
+          "updated_at": "2026-09-16T03:31:50Z",
+          "homepage": "https://www.paddleocr.com",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 9,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "unclecode/crawl4ai",
+          "name": "crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf",
+          "stars": 86349,
+          "forks": 8980,
+          "language": "Python",
+          "topics": [
+            "ai",
+            "ai-agents",
+            "crawler",
+            "data-extraction",
+            "llm",
+            "markdown",
+            "mcp",
+            "open-source",
+            "playwright",
+            "python",
+            "rag",
+            "scraper",
+            "web-crawler",
+            "web-crawling",
+            "web-scraping"
+          ],
+          "created_at": "2024-05-09T09:48:50Z",
+          "updated_at": "2026-10-26T13:15:13Z",
+          "homepage": "https://crawl4ai.com",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 10,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "LLM·RAG"
+          }
+        }
+      ]
+    },
+    {
+      "name": "문서·보고서 자동화",
+      "repos": [
+        {
+          "id": "QuestPDF/QuestPDF",
+          "name": "QuestPDF",
+          "url": "https://github.com/QuestPDF/QuestPDF",
+          "description": "QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clean, readable code. Create documents using a flexible, component-based approach.",
+          "stars": 14210,
+          "forks": 775,
+          "language": "C#",
+          "topics": [
+            "c-sharp",
+            "dotnet-core",
+            "export",
+            "generation",
+            "html",
+            "invoice",
+            "library",
+            "nuget",
+            "pdf",
+            "report"
+          ],
+          "created_at": "2021-01-04T22:47:16Z",
+          "updated_at": "2026-10-21T13:19:25Z",
+          "homepage": "https://www.questpdf.com",
+          "license": "NOASSERTION",
+          "stars_change": null,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clean, readable code. Create documents using a flexible, component-based approach.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "open-xml-templating/docxtemplater",
+          "name": "docxtemplater",
+          "url": "https://github.com/open-xml-templating/docxtemplater",
+          "description": "Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report #json #generate #generation #template #create #pptx #docx #xlsx #react #vuejs #angularjs #browser #typescript #image #html #table #chart",
+          "stars": 3643,
+          "forks": 385,
+          "language": "JavaScript",
+          "topics": [
+            "docx",
+            "docx-generation",
+            "docx-generator",
+            "docx-template",
+            "excel",
+            "javascript",
+            "microsoft",
+            "office",
+            "powerpoint",
+            "pptx",
+            "template",
+            "word",
+            "xlsx"
+          ],
+          "created_at": "2013-05-16T09:59:54Z",
+          "updated_at": "2026-10-15T19:02:34Z",
+          "homepage": "https://www.docxtemplater.com",
+          "license": "NOASSERTION",
+          "stars_change": null,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report #json #generate #generation #template #create #pptx #docx #xlsx #react #vuejs #angularjs #browser #typescript #image #html #table #chart",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "randym/axlsx",
+          "name": "axlsx",
+          "url": "https://github.com/randym/axlsx",
+          "description": "xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your cl",
+          "stars": 2628,
+          "forks": 683,
+          "language": "Ruby",
+          "topics": [],
+          "created_at": "2011-11-20T14:15:45Z",
+          "updated_at": "2023-02-21T21:49:23Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your xlsx file before serialization so you know for sure that anything generated is going to load on your cl",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "raphaelmansuy/edgequake",
+          "name": "edgequake",
+          "url": "https://github.com/raphaelmansuy/edgequake",
+          "description": "EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation",
+          "stars": 2286,
+          "forks": 274,
+          "language": "Rust",
+          "topics": [
+            "graphrag",
+            "knowledge-graph",
+            "lightrag",
+            "rag"
+          ],
+          "created_at": "2025-12-21T11:19:52Z",
+          "updated_at": "2026-10-27T04:56:10Z",
+          "homepage": "https://edgequake.com",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "msgi/nlp-journey",
+          "name": "nlp-journey",
+          "url": "https://github.com/msgi/nlp-journey",
+          "description": "Documents, papers and codes related to  Natural Language Processing, including Topic Model, Word Embedding, Named Entity Recognition, Text Classificatin, Text Generation, Text Similarity, Machine Translation)，etc.",
+          "stars": 1629,
+          "forks": 375,
+          "language": "Python",
+          "topics": [
+            "deep-learning",
+            "paper"
+          ],
+          "created_at": "2019-04-22T12:27:35Z",
+          "updated_at": "2026-02-11T17:42:41Z",
+          "homepage": "https://github.com/msgi/nlp-journey",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 5,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Documents, papers and codes related to  Natural Language Processing, including Topic Model, Word Embedding, Named Entity Recognition, Text Classificatin, Text Generation, Text Similarity, Machine Translation)，etc.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "yaojingang/yao-open-skills",
+          "name": "yao-open-skills",
+          "url": "https://github.com/yaojingang/yao-open-skills",
+          "description": "OpenYao public skills collection: reusable AI assets for decision-making, business analysis, tutorials, research evidence gathering, and document generation.",
+          "stars": 1325,
+          "forks": 144,
+          "language": "HTML",
+          "topics": [],
+          "created_at": "2026-04-06T02:19:10Z",
+          "updated_at": "2026-10-14T10:44:53Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 6,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: OpenYao public skills collection: reusable AI assets for decision-making, business analysis, tutorials, research evidence gathering, and document generation.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "rkusa/pdfjs",
+          "name": "pdfjs",
+          "url": "https://github.com/rkusa/pdfjs",
+          "description": "A Portable Document Format (PDF) generation library targeting both the server- and client-side.",
+          "stars": 818,
+          "forks": 142,
+          "language": "JavaScript",
+          "topics": [
+            "browser",
+            "javascript",
+            "nodejs",
+            "pdf",
+            "pdf-generation",
+            "pdf-merge",
+            "pdf-report"
+          ],
+          "created_at": "2013-05-13T18:38:07Z",
+          "updated_at": "2025-07-01T08:13:36Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 7,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: A Portable Document Format (PDF) generation library targeting both the server- and client-side.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "accelerated-text/accelerated-text",
+          "name": "accelerated-text",
+          "url": "https://github.com/accelerated-text/accelerated-text",
+          "description": "Accelerated Text is a no-code natural language generation platform. It will help you construct document plans which define how your data is converted to textual descriptions varying in wording and structure.",
+          "stars": 806,
+          "forks": 46,
+          "language": "JavaScript",
+          "topics": [
+            "clojure",
+            "graphql",
+            "javascript",
+            "natural-language-generation",
+            "nlg",
+            "nocode",
+            "text-generation"
+          ],
+          "created_at": "2019-09-24T05:15:28Z",
+          "updated_at": "2023-03-10T11:07:11Z",
+          "homepage": "https://www.acceleratedtext.com",
+          "license": "NOASSERTION",
+          "stars_change": null,
+          "rank": 8,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: Accelerated Text is a no-code natural language generation platform. It will help you construct document plans which define how your data is converted to textual descriptions varying in wording and structure.",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "n457/Uncolored",
+          "name": "Uncolored",
+          "url": "https://github.com/n457/Uncolored",
+          "description": "(Un)colored — Next generation desktop rich content editor that saves documents with themes. HTML & Markdown compatible. For Windows, OS X & Linux. — http://n457.github.io/Uncolored/",
+          "stars": 776,
+          "forks": 52,
+          "language": "HTML",
+          "topics": [
+            "editor",
+            "electron",
+            "html",
+            "rich-content",
+            "rich-text-editor",
+            "themes",
+            "wysiwyg"
+          ],
+          "created_at": "2016-09-23T12:09:41Z",
+          "updated_at": "2021-04-05T14:07:02Z",
+          "homepage": "",
+          "license": "Apache-2.0",
+          "stars_change": null,
+          "rank": 9,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: (Un)colored — Next generation desktop rich content editor that saves documents with themes. HTML & Markdown compatible. For Windows, OS X & Linux. — http://n457.github.io/Uncolored/",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "GREsau/okapi",
+          "name": "okapi",
+          "url": "https://github.com/GREsau/okapi",
+          "description": "OpenAPI (AKA Swagger) document generation for Rust projects",
+          "stars": 738,
+          "forks": 126,
+          "language": "Rust",
+          "topics": [],
+          "created_at": "2019-08-08T18:16:11Z",
+          "updated_at": "2025-06-19T15:25:19Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": null,
+          "rank": 10,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "원문 설명: OpenAPI (AKA Swagger) document generation for Rust projects",
+            "features": [
+              "GitHub 저장소의 README 및 사용 예제를 확인하세요.",
+              "라이선스와 최근 업데이트 상태를 검토하세요."
+            ],
+            "use_cases": [
+              "기관 업무 적용 전 기능·보안·라이선스 적합성 검토가 필요합니다."
+            ],
+            "cautions": "AI 분석이 비활성화되어 원문 메타데이터를 표시합니다.",
+            "source": "metadata",
+            "category": "문서·보고서 자동화"
+          }
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "methodology": "누적 스타 상위 5개 + 직전 수집일 대비 스타 증가 상위 5개(비교 자료 없을 경우 누적 인기 보충). 분야별 검색 후보군 중에서 선정."
+}
