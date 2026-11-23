@@ -1,0 +1,3222 @@
+{
+  "date": "2026-11-24",
+  "baseline_date": "2026-11-23",
+  "limit_per_category": 10,
+  "created_after": "2026-01-01",
+  "categories": [
+    {
+      "name": "AI 에이전트",
+      "repos": [
+        {
+          "id": "affaan-m/ECC",
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "stars": 309560,
+          "forks": 45536,
+          "language": "JavaScript",
+          "topics": [
+            "ai-agents",
+            "anthropic",
+            "claude",
+            "claude-code",
+            "developer-tools",
+            "llm",
+            "mcp",
+            "productivity"
+          ],
+          "created_at": "2026-01-18T00:51:51Z",
+          "updated_at": "2026-11-23T04:55:48Z",
+          "homepage": "https://ecc.tools",
+          "license": "MIT",
+          "stars_change": 562,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+            "features": [
+              "Install Node.js 18 or newer, Git, and Claude Code.",
+              "Open PowerShell from the Windows Start menu.",
+              "Confirm that each prerequisite is available",
+              "Run the guided installer",
+              "For a typical personal setup, choose Global user, choose Standard hooks, and confirm."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "deepseek-ai/deepseek-harness",
+          "name": "deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "stars": 286060,
+          "forks": 35609,
+          "language": "TypeScript",
+          "topics": [
+            "ai-agents",
+            "cordis",
+            "dsh",
+            "dsh-plugin"
+          ],
+          "created_at": "2026-08-13T11:56:32Z",
+          "updated_at": "2026-11-22T11:00:05Z",
+          "homepage": "https://deepseek.com/harness",
+          "license": "MIT",
+          "stars_change": 520,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "DeepSeek Harness: Everything is a Plugin.",
+            "features": [],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 2일 전(2026-11-22)",
+              "공개 2026년"
+            ],
+            "cautions": "README에서 기능 목록을 찾지 못함 — 저장소에서 직접 확인 필요.",
+            "source": "metadata",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "DietrichGebert/ponytail",
+          "name": "ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "stars": 197494,
+          "forks": 11165,
+          "language": "JavaScript",
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "claude",
+            "claude-code",
+            "claude-code-plugin",
+            "cursor-rules",
+            "developer-tools",
+            "llm",
+            "prompt-engineering",
+            "yagni"
+          ],
+          "created_at": "2026-06-12T00:52:37Z",
+          "updated_at": "2026-11-22T02:31:58Z",
+          "homepage": "https://ponytail.dev",
+          "license": "MIT",
+          "stars_change": 631,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+            "features": [],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 2일 전(2026-11-22)",
+              "공개 2026년"
+            ],
+            "cautions": "README에서 기능 목록을 찾지 못함 — 저장소에서 직접 확인 필요.",
+            "source": "metadata",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "Graphify-Labs/graphify",
+          "name": "graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "stars": 152522,
+          "forks": 14660,
+          "language": "Python",
+          "topics": [
+            "ai-agents",
+            "antigravity",
+            "ast",
+            "claude-code",
+            "code-analysis",
+            "code-search",
+            "codex",
+            "cursor",
+            "developer-tools",
+            "gemini",
+            "graphify",
+            "graphrag",
+            "knowledge-graph",
+            "leiden",
+            "llm",
+            "mcp",
+            "openclaw",
+            "rag",
+            "skills",
+            "tree-sitter"
+          ],
+          "created_at": "2026-04-03T15:49:07Z",
+          "updated_at": "2026-11-23T19:14:02Z",
+          "homepage": "graphify.com",
+          "license": "Apache-2.0",
+          "stars_change": 486,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+            "features": [
+              "Code maps for free, fully local. Code is parsed with tree-sitter AST: deterministic, no LLM, nothing leaves your machine. (Docs, PDFs, images and video use your assistant's model, or a configured API key, for a semantic ",
+              "Every edge is explained. Each connection is tagged EXTRACTED (explicit in the source) or INFERRED (resolved by graphify), so you can tell what was read directly from what was inferred.",
+              "Not a vector index. No embeddings, no vector store: a real graph you traverse. Ask a question, trace the path between two things, or explain one concept."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+          "stars": 134446,
+          "forks": 8595,
+          "language": "TypeScript",
+          "topics": [
+            "agent-ide",
+            "ai-agents",
+            "automation",
+            "bot",
+            "claude-code",
+            "codex",
+            "ghostty",
+            "grok-bot",
+            "hermes-agent",
+            "mobile-app",
+            "muse",
+            "openclaw",
+            "opencode",
+            "orchestration",
+            "pi",
+            "runtime",
+            "swarm",
+            "terminal",
+            "worktrees",
+            "yc-backed"
+          ],
+          "created_at": "2026-03-17T03:28:57Z",
+          "updated_at": "2026-11-23T23:20:12Z",
+          "homepage": "https://orca.dev",
+          "license": "MIT",
+          "stars_change": 1505,
+          "rank": 5,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+            "features": [
+              "Bot Schedules &amp; Triggers: run a bot every weekday at 9, or when a pull request opens, a check fails, or a webhook fires.",
+              "Bot Memory in Markdown: a bot's soul and memory are plain Markdown files (SOUL.md, MEMORY.md) you can read and edit.",
+              "Drag Files to Agents: drag files from the explorer, or images from your desktop, straight into an agent's prompt.",
+              "Jump Anywhere: one shortcut jumps to any workspace or tab across every repo and host.",
+              "Rich Previews: open images, PDFs, and Markdown right in the workspace, next to the agent that made them."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "Ebony-Vinyl/dsh-our-free-model",
+          "name": "dsh-our-free-model",
+          "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+          "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+          "stars": 85029,
+          "forks": 2391,
+          "language": "JavaScript",
+          "topics": [
+            "ai-agents",
+            "deepseek",
+            "deepseek-harness",
+            "developer-tools",
+            "dsh",
+            "dsh-plugin",
+            "free-model",
+            "llm",
+            "model-provider",
+            "openai-compatible"
+          ],
+          "created_at": "2026-09-24T16:17:19Z",
+          "updated_at": "2026-11-23T09:41:40Z",
+          "homepage": "",
+          "license": "NOASSERTION",
+          "stars_change": 1095,
+          "rank": 6,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+            "features": [
+              "开箱即用，无配置环节——不需要账号、不需要 Key、不需要在后台申请配额。",
+              "上游来源公开透明——免费车道来源为 OpenCode 的 Zen 网关，Kilo 渠道来源为 Kilo AI 的公共网关，均直连、不经任何第三方中转。请求由谁处理、数据发往何处，见「上游是哪些源」与「免责声明」。",
+              "清单跟随上游——模型集合、上下文长度与能力在每次刷新时向上游重新拉取，插件内不保存静态快照。",
+              "选择器只广播可用的模型——上游清单已声明但网关明确拒绝路由的模型（返回 Model is unavailable、或 404 找不到该 id）从下拉框移除，仅在设置页保留记录并注明拒因；网关自身故障（5xx）、配额限制（429）、超时与断网不属于对模型的判定，一律保持可达；被地区策略拦截的模型归入 region-limited 分组。整轮探测全部被拒时同样保留，选择器不会为空。",
+              "公告中心 + 实时推送——仓库维护者在仓库中编辑 JSON 并推送后，所有已安装实例最迟在一个轮询周期内收到；正文为白名单约束下的 HTML，支持图文排版；urgent 级别触发全屏弹窗；可选系统级通知。"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 표준 외(저장소에서 확인 필요)",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "heygen-com/hyperframes",
+          "name": "hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
+          "stars": 88925,
+          "forks": 8293,
+          "language": "TypeScript",
+          "topics": [
+            "agent-skills",
+            "ai",
+            "ai-agents",
+            "ai-video",
+            "ai-video-editor",
+            "animation",
+            "claude-code",
+            "ffmpeg",
+            "gsap",
+            "html",
+            "html-to-video",
+            "mcp",
+            "motion-graphics",
+            "puppeteer",
+            "remotion-alternative",
+            "rendering",
+            "typescript",
+            "video-editing",
+            "video-editor",
+            "video-generation"
+          ],
+          "created_at": "2026-03-10T01:51:06Z",
+          "updated_at": "2026-11-23T23:18:59Z",
+          "homepage": "https://hyperframes.heygen.com",
+          "license": "Apache-2.0",
+          "stars_change": 665,
+          "rank": 7,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
+            "features": [
+              "HTML-native: make videos programmatically with HTML, CSS and JavaScript; compositions are HTML files with data attributes. No React requirement, no proprietary timeline format.",
+              "Agent-friendly: agents already write HTML, and the CLI is non-interactive by default.",
+              "Deterministic: same input, same frames, same output. Built for CI, regression tests, and automated rendering.",
+              "No build step: an index.html composition plays as-is and can be previewed directly in the browser.",
+              "Adapter-based animation: bring GSAP, CSS animations, Lottie, Three.js, Anime.js, WAAPI, or a custom runtime."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "Leonxlnx/taste-skill",
+          "name": "taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+          "stars": 120643,
+          "forks": 8097,
+          "language": "JavaScript",
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "anti-slop",
+            "claude-code",
+            "codex",
+            "cursor",
+            "design-system",
+            "frontend",
+            "landing-page",
+            "ui-design",
+            "web-design"
+          ],
+          "created_at": "2026-02-19T21:44:05Z",
+          "updated_at": "2026-11-22T20:10:07Z",
+          "homepage": "https://tasteskill.dev",
+          "license": "MIT",
+          "stars_change": 542,
+          "rank": 8,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+            "features": [
+              "Deal tokens and layout. scripts/start.mjs deals a palette made for the trade and a Google Fonts pairing for the page kind (library/palettes.json, library/type.json), and assets/layout/deal.mjs deals a hero layout (split,",
+              "Start from one system. assets/starter.html, assets/system.css and assets/layout/layout.css enforce one section per screen at desktop (1440x900), equal left and right content edges, a fixed navigation bar and a single-scr",
+              "Show real product UI and real photographs. Software and tech pages populate lit feature cards (assets/ui/cards.css) with rewritten HTML UI fragments (assets/ui/) and node-and-line diagrams (assets/diagrams/), with real b",
+              "Keep effects for tech and gaming pages. Shader grounds (scripts/effects.mjs), scroll scenes (assets/scenes/) and procedural 3D prints (assets/objects/) are dealt only on software, tech and gaming pages within a four-cont",
+              "Check in a real browser over HTTP. scripts/consistency.mjs, assets/layout/check.mjs, scripts/perf.mjs and scripts/shoot.mjs render the built page in headless Chrome across 1440, 1024, 768 and 390, catching empty visuals,"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "paperclipai/paperclip",
+          "name": "paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "stars": 116320,
+          "forks": 19313,
+          "language": "TypeScript",
+          "topics": [
+            "acpx",
+            "agent-orchestration",
+            "agent-skills",
+            "agentic-ai",
+            "ai-agents",
+            "ai-engineering",
+            "ai-governance",
+            "ai-tools",
+            "autonomous-agents",
+            "claude",
+            "claude-code",
+            "claude-skills",
+            "codex",
+            "hermes",
+            "llm",
+            "mcp",
+            "multi-agent",
+            "openclaw",
+            "project-management",
+            "workflow-automation"
+          ],
+          "created_at": "2026-03-02T15:01:51Z",
+          "updated_at": "2026-11-23T23:18:22Z",
+          "homepage": "https://paperclip.ing",
+          "license": "MIT",
+          "stars_change": 357,
+          "rank": 9,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "The open-source app everyone uses to manage agents at work",
+            "features": [
+              "✅ You want to build autonomous AI organizations",
+              "✅ You coordinate many different agents (OpenClaw, Codex, Claude, Cursor) toward a common goal",
+              "✅ You have 20 simultaneous Claude Code terminals open and lose track of what everyone is doing",
+              "✅ You want agents running autonomously 24/7, but still want to audit work and chime in when needed",
+              "✅ You want to monitor costs and enforce budgets"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 에이전트"
+          }
+        },
+        {
+          "id": "tt-a1i/archify",
+          "name": "archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+          "stars": 99097,
+          "forks": 6778,
+          "language": "JavaScript",
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "architecture-diagram",
+            "claude-code",
+            "claude-skills",
+            "codex",
+            "coding-agents",
+            "deepseek-harness",
+            "developer-tools",
+            "diagrams",
+            "diagrams-as-code",
+            "dsh-plugin",
+            "flowchart",
+            "llm",
+            "mermaid",
+            "opencode",
+            "sequence-diagram",
+            "software-architecture",
+            "system-design",
+            "visualization"
+          ],
+          "created_at": "2026-04-15T05:27:37Z",
+          "updated_at": "2026-11-23T05:21:17Z",
+          "homepage": "https://archify.si",
+          "license": "Apache-2.0",
+          "stars_change": 308,
+          "rank": 10,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+            "features": [
+              "Conclusion first. The answer and its reasons lead; every panel takes one question.",
+              "Diagrams that explain. Steps sit beside the diagram they walk through and light its parts as you read. Click any node to open the full interactive view.",
+              "Easy to check. Claims cite numbered sources; repository excerpts are pinned to a commit and open in a source card.",
+              "Easy to share. One HTML file with four styles and light or dark themes. Export a PNG, WebP or JPG long image, or print to PDF. Ask about any panel to get a follow-up your agent can use to revise just that panel."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 에이전트"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Python 코딩",
+      "repos": [
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "stars": 114252,
+          "forks": 10256,
+          "language": "Python",
+          "topics": [
+            "agent-infrastructure",
+            "ai-agent",
+            "ai-search",
+            "automation",
+            "bilibili",
+            "claude-code",
+            "cli",
+            "cursor",
+            "free-api",
+            "llm-tools",
+            "mcp",
+            "python",
+            "reddit-scraper",
+            "twitter-scraper",
+            "web-scraper",
+            "xiaohongshu",
+            "youtube-transcript"
+          ],
+          "created_at": "2026-02-24T02:10:24Z",
+          "updated_at": "2026-11-22T15:12:07Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": 242,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+            "features": [
+              "要登录才能用的功能：在小红书搜笔记、在 X 查账号动态、读职位详情等。",
+              "视频里的内容：B站和 YouTube 的字幕，以及 YouTube 视频、小宇宙播客的语音转文字。",
+              "中文平台：B站、小红书、V2EX、雪球，通用搜索覆盖很差。",
+              "干净的结构化数据：雪球行情、V2EX 帖子和回复、GitHub 仓库和 issue，拿到的是整理好的内容。"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "OpenMontageInc/OpenMontage",
+          "name": "OpenMontage",
+          "url": "https://github.com/OpenMontageInc/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+          "stars": 82705,
+          "forks": 11278,
+          "language": "Python",
+          "topics": [
+            "agent",
+            "agentic-ai",
+            "ai",
+            "claude",
+            "copilot",
+            "cursor",
+            "elevenlabs",
+            "ffmpeg",
+            "flux",
+            "image-generation",
+            "open-source",
+            "openai",
+            "python",
+            "remotion",
+            "stable-diffusion",
+            "text-to-speech",
+            "text-to-video",
+            "video-generation",
+            "video-production"
+          ],
+          "created_at": "2026-03-29T15:23:22Z",
+          "updated_at": "2026-11-16T06:55:27Z",
+          "homepage": "https://www.openmontage.video/",
+          "license": "AGPL-3.0",
+          "stars_change": 298,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+            "features": [
+              "Paste a reference video",
+              "The agent analyzes transcript, pacing, scenes, keyframes, and style",
+              "You get 2-3 differentiated concepts, an honest tool path, cost estimates, and a sample before full production",
+              "What it keeps from the reference: pacing, hook style, structure, tone",
+              "What it changes: topic, visual treatment, angle, narration approach"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 AGPL-3.0",
+              "마지막 커밋 8일 전(2026-11-16)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "headroomlabs-ai/headroom",
+          "name": "headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "stars": 80665,
+          "forks": 6321,
+          "language": "Python",
+          "topics": [
+            "agent",
+            "ai",
+            "anthropic",
+            "claude-code",
+            "compression",
+            "context-engineering",
+            "context-window",
+            "cursor",
+            "fastapi",
+            "langchain",
+            "llm",
+            "mcp",
+            "openai",
+            "prompt-engineering",
+            "proxy",
+            "python",
+            "rag",
+            "token-optimization",
+            "tokens",
+            "typescript"
+          ],
+          "created_at": "2026-01-07T19:58:51Z",
+          "updated_at": "2026-11-23T21:46:34Z",
+          "homepage": "https://docs.headroomlabs.ai/docs",
+          "license": "Apache-2.0",
+          "stars_change": 167,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+            "features": [
+              "Library — compress(messages) in Python or TypeScript, inline in any app.",
+              "Proxy — headroom proxy --port 8787, zero code changes, any language.",
+              "Agent wrap — headroom wrap claude|codex|grok|copilot|cursor|aider|opencode|cline|continue|goose|openhands|openclaw|vibe|omp|droid|zcode in one command; undo with headroom unwrap .",
+              "MCP server — headroomcompress, headroomretrieve, headroomstats for any MCP client.",
+              "Cross-agent memory — one shared store across Claude, Codex, Gemini and Grok, with automatic dedup."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "rohitg00/ai-engineering-from-scratch",
+          "name": "ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+          "stars": 79944,
+          "forks": 14296,
+          "language": "Python",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "ai-engineering",
+            "computer-vision",
+            "course",
+            "deep-learning",
+            "dsh",
+            "from-scratch",
+            "generative-ai",
+            "llm",
+            "machine-learning",
+            "mcp",
+            "python",
+            "rea",
+            "reinforcement-learning",
+            "rust",
+            "transformers",
+            "tutorial",
+            "typescript"
+          ],
+          "created_at": "2026-03-18T18:38:02Z",
+          "updated_at": "2026-11-18T10:49:29Z",
+          "homepage": "https://aiengineeringfromscratch.com",
+          "license": "MIT",
+          "stars_change": 92,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+            "features": [
+              "01 · THE PROBLEM: An LLM returns text. It cannot act.",
+              "02 · BUILD IT: A ReAct loop in stdlib Python.",
+              "03 · USE IT: Where agent SDKs run the same loop.",
+              "04 · SHIP IT: skill-agent-loop.md, ready for your agent."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 6일 전(2026-11-18)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "MemPalace/mempalace",
+          "name": "mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "stars": 60673,
+          "forks": 7655,
+          "language": "Python",
+          "topics": [
+            "ai",
+            "chromadb",
+            "llm",
+            "mcp",
+            "memory",
+            "python"
+          ],
+          "created_at": "2026-04-05T01:12:07Z",
+          "updated_at": "2026-11-23T13:30:25Z",
+          "homepage": "http://mempalaceofficial.com/",
+          "license": "MIT",
+          "stars_change": 9,
+          "rank": 5,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "The best-benchmarked open-source AI memory system. And it's free.",
+            "features": [
+              "Python 3.10+",
+              "A vector-store backend (ChromaDB by default)",
+              "~300 MB disk for the embedding model. Pick it with mempalace init --embedding-model: embeddinggemma (embeddinggemma-300m, multilingual, 100+ languages, recommended) or minilm (all-MiniLM-L6-v2, English-only, ~30 MB). See",
+              "Optional — compute embeddings on a server instead of locally. Set embeddingmodel: \"openai-compat\" in ~/.mempalace/config.json together with embeddingapiurl / embeddingapimodel (and embeddingapikey if the server needs aut"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "kajisho5/ffmpeg-skill",
+          "name": "ffmpeg-skill",
+          "url": "https://github.com/kajisho5/ffmpeg-skill",
+          "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+          "stars": 10212,
+          "forks": 892,
+          "language": "Python",
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "audio-processing",
+            "captions",
+            "claude-code",
+            "codex",
+            "coding-agent",
+            "cursor",
+            "ffmpeg",
+            "gemini-cli-extension",
+            "loudness-normalization",
+            "mcp",
+            "mcp-server",
+            "model-context-protocol",
+            "python",
+            "subtitles",
+            "transcoding",
+            "video",
+            "video-editing",
+            "whisper"
+          ],
+          "created_at": "2026-09-03T14:33:38Z",
+          "updated_at": "2026-11-23T21:27:06Z",
+          "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
+          "license": "MIT",
+          "stars_change": 514,
+          "rank": 6,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+            "features": [
+              "The contract's inputschema for every tool is generated from the live parser directly.",
+              "SKILL.md is two-tier (1.11.0): the file the agent loads every session keeps the workflow, the request→script table and one line per gotcha; the long-form detail lives in references/gotchas.md and the other references/ fi",
+              "The MCP server (mcp/server.py) carries no schema of its own; tools/list is translated straight from the contract, inputschema included.",
+              "The docs (docs/contract.md's field reference, this README's tool table) describe the same shape. tests/testcontract.py runs on every CI run and fails the build if any of them drift out of sync with what the code actually"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "Thysrael/Horizon",
+          "name": "Horizon",
+          "url": "https://github.com/Thysrael/Horizon",
+          "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+          "stars": 15053,
+          "forks": 2183,
+          "language": "Python",
+          "topics": [
+            "aggregator",
+            "feishu-bot",
+            "llm",
+            "mcp",
+            "news",
+            "openclaw",
+            "python",
+            "webhook"
+          ],
+          "created_at": "2026-02-20T08:22:45Z",
+          "updated_at": "2026-11-23T00:02:36Z",
+          "homepage": "https://www.horizon1123.top",
+          "license": "MIT",
+          "stars_change": 131,
+          "rank": 7,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+            "features": [
+              "📡 Bring Your Sources Together — Follow RSS, Hacker News, Reddit, Telegram, X, GitHub, financial news, and more.",
+              "🎯 Decide What's Worth Reading — Define scoring rubrics with profiles, set individual thresholds, and merge repeated stories within each profile.",
+              "🧩 Give Every Read the Right Treatment — Choose summaries, context, solutions, or takeaways with Markdown prompts and JSON block definitions.",
+              "💬 Go Beyond the Headline — Add web-researched background and community discussion where they help explain the story.",
+              "⚖️ Make Room for All Your Interests — Cap the briefing's length and each category's share so one busy topic doesn't crowd out the rest."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "ifixai-ai/iFixAi",
+          "name": "iFixAi",
+          "url": "https://github.com/ifixai-ai/iFixAi",
+          "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+          "stars": 46980,
+          "forks": 1833,
+          "language": "Python",
+          "topics": [
+            "agent-evaluation",
+            "ai",
+            "ai-alignment",
+            "ai-evaluation",
+            "ai-governance",
+            "ai-safety",
+            "cli",
+            "diagnostic-tool",
+            "eu-ai-act",
+            "hallucination-detection",
+            "iso-42001",
+            "llm-evaluation",
+            "llm-security",
+            "nist-ai-rmf",
+            "owasp-llm",
+            "prompt-injection",
+            "python",
+            "responsible-ai",
+            "risk-assessment",
+            "risk-management"
+          ],
+          "created_at": "2026-04-27T13:02:34Z",
+          "updated_at": "2026-11-23T21:48:09Z",
+          "homepage": "https://www.ifixai.ai",
+          "license": "Apache-2.0",
+          "stars_change": 115,
+          "rank": 8,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+            "features": [
+              "Describe your agent: copy the reference profile to my-agent.json and edit it (how). Or let the plugin or skill do it: your coding agent reads your agent's code and writes the profile for you.",
+              "Build its simulation environment and check it. Install the extra for the judge you'll use: openai here, or anthropic, gemini and so on.",
+              "Set up the run with the wizard. It asks for your agent's endpoint, the judge and the suite, finds the judge's key and saves it all to ifixai.yaml. Then pass your agent's own token, see the plan before anything is billed,"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "ethanplusai/sellbird",
+          "name": "sellbird",
+          "url": "https://github.com/ethanplusai/sellbird",
+          "description": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
+          "stars": 7077,
+          "forks": 1474,
+          "language": "Python",
+          "topics": [
+            "ai-agent",
+            "autonomous-agent",
+            "claude",
+            "claude-code",
+            "codex",
+            "cold-email",
+            "email-verification",
+            "grok",
+            "grok-bot",
+            "harvey",
+            "lead-generation",
+            "outreach",
+            "prospecting",
+            "python",
+            "sales-agent",
+            "sales-automation",
+            "sellbird"
+          ],
+          "created_at": "2026-03-12T01:24:50Z",
+          "updated_at": "2026-11-18T08:10:00Z",
+          "homepage": "https://sellbird.ai",
+          "license": "AGPL-3.0",
+          "stars_change": 103,
+          "rank": 9,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
+            "features": [
+              "On first run Sellbird renames harvey.local.yaml to sellbird.local.yaml and data/harvey.db (and its log) to data/sellbird.. It never overwrites a file that already exists under the new name, and waits if a Harvey process ",
+              "HARVEY environment variables still work when the SELLBIRD one isn't set; rename them when convenient.",
+              "The harvey command and python -m harvey still work for now and say they moved. They will be removed in a later release.",
+              "If you edited the tracked harvey.yaml directly, git pull stops with \"your local changes would be overwritten\". Run git stash, git pull, then git stash pop. Git carries your edits into sellbird.yaml. If it reports a confl",
+              "Docker: the service is now sellbird. Run docker compose down, git pull, docker compose build, then docker compose up -d. HARVEYUID/HARVEYGID are still read."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 AGPL-3.0",
+              "마지막 커밋 6일 전(2026-11-18)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "Python 코딩"
+          }
+        },
+        {
+          "id": "superdesigndev/treg",
+          "name": "treg",
+          "url": "https://github.com/superdesigndev/treg",
+          "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+          "stars": 8814,
+          "forks": 875,
+          "language": "Python",
+          "topics": [
+            "agents",
+            "api-keys",
+            "cli",
+            "credentials",
+            "developer-tools",
+            "dsh-plugin",
+            "mcp",
+            "proxy",
+            "python",
+            "registry",
+            "secrets"
+          ],
+          "created_at": "2026-07-15T13:38:07Z",
+          "updated_at": "2026-11-23T21:50:26Z",
+          "homepage": "https://treg.to",
+          "license": "NOASSERTION",
+          "stars_change": 69,
+          "rank": 10,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+            "features": [
+              "your team registered its own tool for that provider → that tool, that key;",
+              "your team stored a secret for the provider → injected through a virtual tool (never for a keyless public API, which has nothing to connect);",
+              "neither, and the endpoint has a verified public route → no provider key, free;",
+              "otherwise → treg's own key, billed to the team's prepaid balance."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 표준 외(저장소에서 확인 필요)",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "Python 코딩"
+          }
+        }
+      ]
+    },
+    {
+      "name": "AI 코딩 도구",
+      "repos": [
+        {
+          "id": "codewhale-hq/Codewhale",
+          "name": "Codewhale",
+          "url": "https://github.com/codewhale-hq/Codewhale",
+          "description": "An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.",
+          "stars": 41199,
+          "forks": 3577,
+          "language": "Rust",
+          "topics": [
+            "agent-client-protocol",
+            "agent-orchestration",
+            "ai-agent",
+            "ai-coding",
+            "cli",
+            "coding-agent",
+            "deepseek",
+            "developer-tools",
+            "llm",
+            "local-llm",
+            "mcp",
+            "multi-agent",
+            "ollama",
+            "open-source",
+            "openai-compatible",
+            "rust",
+            "terminal",
+            "tui"
+          ],
+          "created_at": "2026-01-19T18:21:01Z",
+          "updated_at": "2026-11-23T22:53:45Z",
+          "homepage": "https://codewhale.net/",
+          "license": "MIT",
+          "stars_change": 1,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.",
+            "features": [],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README에서 기능 목록을 찾지 못함 — 저장소에서 직접 확인 필요.",
+            "source": "metadata",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "ccch1mneyyy/dsh-Go",
+          "name": "dsh-Go",
+          "url": "https://github.com/ccch1mneyyy/dsh-Go",
+          "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+          "stars": 30743,
+          "forks": 1480,
+          "language": "Dart",
+          "topics": [
+            "ai-agent",
+            "android",
+            "android-app",
+            "coding-agent",
+            "deepseek",
+            "deepseek-harness",
+            "dsh",
+            "dsh-plugin",
+            "dsh-tui",
+            "flutter",
+            "llm"
+          ],
+          "created_at": "2026-10-25T08:09:52Z",
+          "updated_at": "2026-11-23T23:11:56Z",
+          "homepage": "",
+          "license": "AGPL-3.0",
+          "stars_change": 585,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+            "features": [
+              "本机运行：在 App 内安装 Ubuntu、Node.js 与 DSH 运行环境，无需 Root 或另装 Termux。",
+              "远程连接：通过 SSH 或李国宝老师开发的 DSHarness Remote 使用电脑、服务器上的 DSH。",
+              "聊天与工具：切换模型，发送图片、使用语音输入，处理工具审批和提问；支持聊天界面与网页模式。",
+              "插件界面：使用适配 DSH Go 的原生工具卡、表单和面板；仓库提供 SDK、教程和示例。",
+              "手机操控：在你开启权限后，让本机引擎读取屏幕、点按和输入，并可随时停止。"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 AGPL-3.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "OthmanAdi/planning-with-files",
+          "name": "planning-with-files",
+          "url": "https://github.com/OthmanAdi/planning-with-files",
+          "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
+          "stars": 28209,
+          "forks": 2332,
+          "language": "Shell",
+          "topics": [
+            "agent-skills",
+            "autonomous-agents",
+            "claude",
+            "claude-code",
+            "claude-code-skills",
+            "claude-skills",
+            "codex",
+            "coding-agent",
+            "context-engineering",
+            "context-rot",
+            "cursor",
+            "github-copilot",
+            "hermes-plugin",
+            "hermes-skill",
+            "llm-agents",
+            "long-running-agents",
+            "manus",
+            "multi-agent-systems",
+            "planning",
+            "session-recovery"
+          ],
+          "created_at": "2026-01-03T07:37:28Z",
+          "updated_at": "2026-11-23T11:57:04Z",
+          "homepage": "https://planningwithfiles.tech/",
+          "license": "MIT",
+          "stars_change": 14,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
+            "features": [],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README에서 기능 목록을 찾지 못함 — 저장소에서 직접 확인 필요.",
+            "source": "metadata",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "1jehuang/jcode",
+          "name": "jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows",
+          "stars": 22007,
+          "forks": 2579,
+          "language": "Rust",
+          "topics": [
+            "ai",
+            "ai-agent",
+            "ai-coding-agent",
+            "claude",
+            "cli",
+            "coding-agent",
+            "llm",
+            "mcp",
+            "openai",
+            "rust",
+            "terminal",
+            "tui"
+          ],
+          "created_at": "2026-01-05T09:43:36Z",
+          "updated_at": "2026-11-23T19:19:07Z",
+          "homepage": "https://jcode.sh",
+          "license": "MIT",
+          "stars_change": 20,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows",
+            "features": [
+              "Token optimization",
+              "KV cache",
+              "Hill-climbable measurements"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "NanmiCoder/cc-haha",
+          "name": "cc-haha",
+          "url": "https://github.com/NanmiCoder/cc-haha",
+          "description": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via WeChat, Feishu, DingTalk, Telegram, WhatsApp & H5.",
+          "stars": 15534,
+          "forks": 8614,
+          "language": "TypeScript",
+          "topics": [
+            "agent",
+            "ai",
+            "ai-agent",
+            "anthropic",
+            "claude",
+            "claude-code",
+            "coding-agent",
+            "computer-use",
+            "desktop-app",
+            "electron",
+            "llm",
+            "mcp",
+            "react",
+            "typescript"
+          ],
+          "created_at": "2026-03-31T17:30:14Z",
+          "updated_at": "2026-11-23T09:36:01Z",
+          "homepage": "https://cchaha.ai",
+          "license": "NOASSERTION",
+          "stars_change": 10,
+          "rank": 5,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via WeChat, Feishu, DingTalk, Telegram, WhatsApp & H5.",
+            "features": [
+              "前往 Releases 下载 macOS / Windows / Linux 桌面端安装包。",
+              "首次启动后，在桌面端设置里配置模型提供商、API Key 和默认模型。",
+              "正式 macOS Release 需要经过签名和公证；如果安装的是 draft/unsigned 临时包，首次打开可能仍需手动放行。Windows 未签名安装包可能出现 SmartScreen 提示，点「更多信息」→「仍要运行」即可。详见 桌面端安装指南。",
+              "手机端（可选）：Android 在 Releases 下载 cc-haha-mobile-.apk 安装；iPhone 先装 TestFlight，再打开公开链接加入测试。手机 App 需要桌面端 v0.7.6 或更新版本。在桌面端「手机连接」里扫码配对，同一 Wi-Fi 直连，外出用 Cloudflare 连接，详见 手机 App 与远程连接。"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 표준 외(저장소에서 확인 필요)",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "kajisho5/ffmpeg-skill",
+          "name": "ffmpeg-skill",
+          "url": "https://github.com/kajisho5/ffmpeg-skill",
+          "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+          "stars": 10212,
+          "forks": 892,
+          "language": "Python",
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "audio-processing",
+            "captions",
+            "claude-code",
+            "codex",
+            "coding-agent",
+            "cursor",
+            "ffmpeg",
+            "gemini-cli-extension",
+            "loudness-normalization",
+            "mcp",
+            "mcp-server",
+            "model-context-protocol",
+            "python",
+            "subtitles",
+            "transcoding",
+            "video",
+            "video-editing",
+            "whisper"
+          ],
+          "created_at": "2026-09-03T14:33:38Z",
+          "updated_at": "2026-11-23T21:27:06Z",
+          "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
+          "license": "MIT",
+          "stars_change": 514,
+          "rank": 6,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+            "features": [
+              "The contract's inputschema for every tool is generated from the live parser directly.",
+              "SKILL.md is two-tier (1.11.0): the file the agent loads every session keeps the workflow, the request→script table and one line per gotcha; the long-form detail lives in references/gotchas.md and the other references/ fi",
+              "The MCP server (mcp/server.py) carries no schema of its own; tools/list is translated straight from the contract, inputschema included.",
+              "The docs (docs/contract.md's field reference, this README's tool table) describe the same shape. tests/testcontract.py runs on every CI run and fails the build if any of them drift out of sync with what the code actually"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "microsoft/TokenEconomizer",
+          "name": "TokenEconomizer",
+          "url": "https://github.com/microsoft/TokenEconomizer",
+          "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
+          "stars": 8024,
+          "forks": 565,
+          "language": "Python",
+          "topics": [
+            "agentic-ai",
+            "agentic-coding",
+            "ai-coding",
+            "ai-coding-assistant",
+            "anthropic",
+            "artificial-intelligence",
+            "claude-code",
+            "codex",
+            "coding-agent",
+            "coding-agents",
+            "cost-optimization",
+            "cost-reduction",
+            "developer-tools",
+            "github-copilot",
+            "llm",
+            "open-source",
+            "openai",
+            "productivity",
+            "token-optimization"
+          ],
+          "created_at": "2026-10-13T04:16:50Z",
+          "updated_at": "2026-11-20T02:36:48Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": 62,
+          "rank": 7,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Experience-Driven Black-Box Cost Control for Coding Agents",
+            "features": [
+              "Micro-skills: remember how the repository works. Sessions keep rediscovering the same facts: a build step that must run first, the spelling of a command that works here (python -m pytest where pytest is missing, npx tsc ",
+              "Tool pruning: stop loading tools that go unused. Every loaded tool's definition is sent with every request. A tool that goes unused over p prompts spread across at least m sessions, or over s sessions of any length (p = ",
+              "Failure-loop intervention (the loop guard): step in when a turn is stuck. When a turn (the agent's work on one prompt) keeps hitting the same failures, a judge model checks whether it is stuck. If the judge is at least c"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 4일 전(2026-11-20)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "aoci-spec/aoci-code",
+          "name": "aoci-code",
+          "url": "https://github.com/aoci-spec/aoci-code",
+          "description": "A persistent, Git-versioned map of your whole codebase and database schema that coding agents read before they touch anything. Local-first MCP server + CLI in Go: a governed repository index of code knowledge that gives Claude Code, Codex, Cursor, and opencode long-term context, memory, and code intelligence.",
+          "stars": 2965,
+          "forks": 272,
+          "language": "Go",
+          "topics": [
+            "agent-memory",
+            "agents-md",
+            "ai-coding",
+            "ai-context",
+            "claude-code",
+            "code-indexing",
+            "code-intelligence",
+            "codex",
+            "coding-agent",
+            "context-engineering",
+            "cursor",
+            "database-schema",
+            "golang",
+            "llm",
+            "local-first",
+            "mcp",
+            "mcp-server",
+            "model-context-protocol",
+            "opencode",
+            "repo-map"
+          ],
+          "created_at": "2026-08-08T11:33:08Z",
+          "updated_at": "2026-11-23T21:17:51Z",
+          "homepage": "www.aoci.ai",
+          "license": "NOASSERTION",
+          "stars_change": 60,
+          "rank": 8,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "A persistent, Git-versioned map of your whole codebase and database schema that coding agents read before they touch anything. Local-first MCP server + CLI in Go: a governed repository index of code knowledge that gives Claude Code, Codex, Cursor, and opencode long-term context, memory, and code intelligence.",
+            "features": [
+              "CodeGraph parses your code into a graph of symbols and calls. When the agent asks a question, it returns the exact source and call paths. It is a precise lookup tool for the task at hand.",
+              "AOCI-CODE has the model write one line per file and table: what it is for, what it connects to, and what must not break. The agent reads the whole index first, so it knows the system before the task starts. The index liv",
+              "Use both: the index to know the system, CodeGraph to fetch the exact code while working."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 표준 외(저장소에서 확인 필요)",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "HarnessRouter/harnessrouter",
+          "name": "harnessrouter",
+          "url": "https://github.com/HarnessRouter/harnessrouter",
+          "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure.",
+          "stars": 4465,
+          "forks": 495,
+          "language": "Python",
+          "topics": [
+            "agent-api",
+            "agent-framework",
+            "agent-harness",
+            "ai-agents",
+            "ai-infrastructure",
+            "coding-agent",
+            "conformance-testing",
+            "deepseek-harness",
+            "harness-engineering",
+            "hermes",
+            "llm",
+            "open-protocol",
+            "open-source",
+            "open-standard",
+            "pi-coding-agent",
+            "self-hosted",
+            "uhp",
+            "unified-api",
+            "unified-harness-protocol",
+            "unified-interface"
+          ],
+          "created_at": "2026-08-09T20:19:14Z",
+          "updated_at": "2026-11-23T22:13:51Z",
+          "homepage": "https://harnessrouter.ai/",
+          "license": "Apache-2.0",
+          "stars_change": 58,
+          "rank": 9,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure.",
+            "features": [
+              "Open API Keys in the Console rail of the same CE instance (default local address), name the key, and press Create.",
+              "Store the secret shown once as HARNESSROUTERAPIKEY in your product backend. Never expose it in browser code. This CE-issued key is separate from your Console password and provider key.",
+              "Call the API with the Harness ID shown in the Console and a model served by your connected provider."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 코딩 도구"
+          }
+        },
+        {
+          "id": "ccch1mneyyy/dsh-TUI",
+          "name": "dsh-TUI",
+          "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+          "description": "DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方首推的 TUI 插件，高性能低占用，可爱像素鲸鱼，流畅鼠标交互，npm 一键安装",
+          "stars": 8156,
+          "forks": 387,
+          "language": "TypeScript",
+          "topics": [
+            "claude-code",
+            "coding-agent",
+            "deepseek",
+            "deepseek-harness",
+            "dsh-plugin",
+            "ink",
+            "react",
+            "terminal",
+            "tui"
+          ],
+          "created_at": "2026-08-13T12:49:31Z",
+          "updated_at": "2026-11-23T17:25:14Z",
+          "homepage": "https://dshtui.com/",
+          "license": "MIT",
+          "stars_change": 48,
+          "rank": 10,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方首推的 TUI 插件，高性能低占用，可爱像素鲸鱼，流畅鼠标交互，npm 一键安装",
+            "features": [
+              "Pixel whale pet — three startup intros, click to wake; freezes after the first task.",
+              "Launchpad and first-run guide — every ordinary launch lands on a landing page with a real input box (big text + whale + quick actions, dropping whole blocks on short/narrow terminals; whale-girl images use a compact nati",
+              "Terminal-native UI — streaming Markdown, tool cards, / and @ completion, #L12-14 ranges, history search, zh/en UI.",
+              "Notifications — one switch covers four system notifications: task completion, a tool approval waiting for your decision, a question waiting for your answer, and a plan review waiting for your decision. Completion on DSH,",
+              "Native cursor — focused text inputs inherit your terminal's cursor shape, color, blinking, and enabled animation or trail effects in both inline and fullscreen modes. The /model picker shows the same cursor during moveme"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "AI 코딩 도구"
+          }
+        }
+      ]
+    },
+    {
+      "name": "업무 자동화",
+      "repos": [
+        {
+          "id": "stablyai/orca",
+          "name": "orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+          "stars": 134448,
+          "forks": 8595,
+          "language": "TypeScript",
+          "topics": [
+            "agent-ide",
+            "ai-agents",
+            "automation",
+            "bot",
+            "claude-code",
+            "codex",
+            "ghostty",
+            "grok-bot",
+            "hermes-agent",
+            "mobile-app",
+            "muse",
+            "openclaw",
+            "opencode",
+            "orchestration",
+            "pi",
+            "runtime",
+            "swarm",
+            "terminal",
+            "worktrees",
+            "yc-backed"
+          ],
+          "created_at": "2026-03-17T03:28:57Z",
+          "updated_at": "2026-11-23T23:21:05Z",
+          "homepage": "https://orca.dev",
+          "license": "MIT",
+          "stars_change": 1507,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+            "features": [
+              "Bot Schedules &amp; Triggers: run a bot every weekday at 9, or when a pull request opens, a check fails, or a webhook fires.",
+              "Bot Memory in Markdown: a bot's soul and memory are plain Markdown files (SOUL.md, MEMORY.md) you can read and edit.",
+              "Drag Files to Agents: drag files from the explorer, or images from your desktop, straight into an agent's prompt.",
+              "Jump Anywhere: one shortcut jumps to any workspace or tab across every repo and host.",
+              "Rich Previews: open images, PDFs, and Markdown right in the workspace, next to the agent that made them."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "paperclipai/paperclip",
+          "name": "paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "stars": 116320,
+          "forks": 19313,
+          "language": "TypeScript",
+          "topics": [
+            "acpx",
+            "agent-orchestration",
+            "agent-skills",
+            "agentic-ai",
+            "ai-agents",
+            "ai-engineering",
+            "ai-governance",
+            "ai-tools",
+            "autonomous-agents",
+            "claude",
+            "claude-code",
+            "claude-skills",
+            "codex",
+            "hermes",
+            "llm",
+            "mcp",
+            "multi-agent",
+            "openclaw",
+            "project-management",
+            "workflow-automation"
+          ],
+          "created_at": "2026-03-02T15:01:51Z",
+          "updated_at": "2026-11-23T23:18:22Z",
+          "homepage": "https://paperclip.ing",
+          "license": "MIT",
+          "stars_change": 357,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "The open-source app everyone uses to manage agents at work",
+            "features": [
+              "✅ You want to build autonomous AI organizations",
+              "✅ You coordinate many different agents (OpenClaw, Codex, Claude, Cursor) toward a common goal",
+              "✅ You have 20 simultaneous Claude Code terminals open and lose track of what everyone is doing",
+              "✅ You want agents running autonomously 24/7, but still want to audit work and chime in when needed",
+              "✅ You want to monitor costs and enforce budgets"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "Panniantong/Agent-Reach",
+          "name": "Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "stars": 114252,
+          "forks": 10256,
+          "language": "Python",
+          "topics": [
+            "agent-infrastructure",
+            "ai-agent",
+            "ai-search",
+            "automation",
+            "bilibili",
+            "claude-code",
+            "cli",
+            "cursor",
+            "free-api",
+            "llm-tools",
+            "mcp",
+            "python",
+            "reddit-scraper",
+            "twitter-scraper",
+            "web-scraper",
+            "xiaohongshu",
+            "youtube-transcript"
+          ],
+          "created_at": "2026-02-24T02:10:24Z",
+          "updated_at": "2026-11-22T15:12:07Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": 242,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+            "features": [
+              "要登录才能用的功能：在小红书搜笔记、在 X 查账号动态、读职位详情等。",
+              "视频里的内容：B站和 YouTube 的字幕，以及 YouTube 视频、小宇宙播客的语音转文字。",
+              "中文平台：B站、小红书、V2EX、雪球，通用搜索覆盖很差。",
+              "干净的结构化数据：雪球行情、V2EX 帖子和回复、GitHub 仓库和 issue，拿到的是整理好的内容。"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "stars": 73416,
+          "forks": 6478,
+          "language": "Python",
+          "topics": [
+            "agent-skills",
+            "artificial-intelligence",
+            "automation",
+            "bot",
+            "command-line",
+            "data-science",
+            "dsh",
+            "dsh-plugin",
+            "golang",
+            "instagram",
+            "llms",
+            "nlp",
+            "osint",
+            "polymarket",
+            "python3",
+            "reddit",
+            "terminal",
+            "tiktok",
+            "twitter",
+            "youtube"
+          ],
+          "created_at": "2026-01-23T20:37:37Z",
+          "updated_at": "2026-11-23T01:00:01Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": 740,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+            "features": [
+              "Patent Secret Signals: a company run reads that month's US patent filings, with no key, and flags only the ones that are out of character or describe something unannounced.",
+              "Jobs Page Secret Signals: it reads the company's own careers page and flags the roles that give away what's coming, including new teams nobody has covered yet.",
+              "Quote lines: the best Reddit, X, YouTube, TikTok, and Instagram comments sit on their own line under the story they back up, translated when needed, and a line said in a video can be quoted too.",
+              "Polymarket odds line: one line under the story it bears on, with how much the odds moved.",
+              "Yahoo Finance line: a listed company's share price over the last 30 days next to the S&P 500, plus its biggest single-day move."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "HKUDS/nanobot",
+          "name": "nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "description": "Your lightweight open-source personal agent.",
+          "stars": 50289,
+          "forks": 8761,
+          "language": "Python",
+          "topics": [
+            "agent-framework",
+            "ai-agent",
+            "ai-agents",
+            "chatbot",
+            "chatops",
+            "discord-bot",
+            "llm-agents",
+            "llms",
+            "local-llm",
+            "mcp",
+            "model-context-protocol",
+            "multi-agent",
+            "openai-compatible",
+            "openclaw",
+            "personal-ai-assistant",
+            "python",
+            "self-hosted",
+            "telegram-bot-ai-assistant",
+            "webui",
+            "workflow-automation"
+          ],
+          "created_at": "2026-02-01T07:16:15Z",
+          "updated_at": "2026-11-23T16:07:55Z",
+          "homepage": "https://nanobot.wiki",
+          "license": "MIT",
+          "stars_change": 14,
+          "rank": 5,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Your lightweight open-source personal agent.",
+            "features": [
+              "Lightweight & low footprint: Small Python core with fast startup and low memory usage—runs comfortably on a personal laptop or a modest VPS without heavyweight infrastructure.",
+              "Polished WebUI & native TUI out of the box: Includes a clean, responsive browser workbench (multi-pane topics, live tool activity, inline file diffs, context usage, themes, and custom backgrounds) plus a matching termina",
+              "Works where you already chat: Connect seamlessly to 15+ chat apps including Telegram, Discord, Slack, Feishu, WeChat, WhatsApp, Email, Mattermost, and Linear.",
+              "Real tools, memory & automations: Reads images, PDFs, and Office files (.docx, .xlsx, .pptx), edits files, connects to MCP servers and plugins, builds long-term memory with Dream, and runs scheduled tasks, local triggers",
+              "Model freedom & full control: Use any cloud API (OpenRouter, Anthropic, OpenAI, Gemini, DeepSeek), OAuth subscription (OpenAI Codex, GitHub Copilot, xAI Grok), or local server (Ollama, vLLM, LM Studio)—self-hosted on you"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "ScrapeCreators/social-media-research-skills",
+          "name": "social-media-research-skills",
+          "url": "https://github.com/ScrapeCreators/social-media-research-skills",
+          "description": "AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI.",
+          "stars": 7520,
+          "forks": 267,
+          "language": "Python",
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "claude-code",
+            "claude-skills",
+            "competitor-analysis",
+            "content-marketing",
+            "cursor",
+            "influencer-marketing",
+            "market-research",
+            "social-media",
+            "social-media-research",
+            "workflow-automation"
+          ],
+          "created_at": "2026-06-06T21:47:43Z",
+          "updated_at": "2026-08-26T17:26:01Z",
+          "homepage": "https://scrapecreators.com",
+          "license": "MIT",
+          "stars_change": 520,
+          "rank": 6,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI.",
+            "features": [
+              "Workflow-first, API-second — users ask for a business outcome, not an endpoint.",
+              "Public-data only — ScrapeCreators extracts public social data. Do not promise logged-in/private data.",
+              "Cited outputs — include source URLs for posts, videos, ads, and comments whenever possible.",
+              "Baseline-aware analysis — judge performance against a creator's own normal performance, not only raw vanity metrics.",
+              "Exact language matters — preserve useful comments, hooks, captions, and transcript quotes verbatim."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 89일 전(2026-08-27)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "Tencent/LoopForge",
+          "name": "LoopForge",
+          "url": "https://github.com/Tencent/LoopForge",
+          "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+          "stars": 5868,
+          "forks": 813,
+          "language": "Go",
+          "topics": [
+            "agent-orchestration",
+            "agentic-workflow",
+            "ai-agents",
+            "ai-coding",
+            "claude-code",
+            "code-review",
+            "codebuddy",
+            "codex",
+            "coding-agents",
+            "cursor",
+            "developer-tools",
+            "human-on-the-loop",
+            "llm",
+            "mcp",
+            "multi-agent",
+            "sdlc",
+            "self-hosted",
+            "sop",
+            "workflow-automation",
+            "workflow-engine"
+          ],
+          "created_at": "2026-07-28T03:51:01Z",
+          "updated_at": "2026-11-23T17:44:27Z",
+          "homepage": "https://loopforge.cn",
+          "license": "NOASSERTION",
+          "stars_change": 213,
+          "rank": 7,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+            "features": [
+              "Repeatable. Same SOP, same stages, same checks for every requirement. Start from built-in backend, frontend, bug-fix and product SOPs.",
+              "Separated roles. Planning, implementation, review and testing each get their own prompt, executor, model, rules, Skills and MCP tools. A role works as an SOP node or as a subagent in chat.",
+              "Human on the loop. Agents run on their own while you supervise. Pause, steer or take over anytime, and approval gates stop the run where a human must decide: approve, or send the work back to a chosen step.",
+              "Observable and resumable. Node status, tool traces, logs and artifacts in one place. Pause, retry a failed step, or rerun from any node.",
+              "Your stack, your servers. Ten coding-agent CLIs as executors, from CodeBuddy, Codex and Claude Code to OpenCode, Cursor CLI and more. GitHub, Skills and MCP as tools. Docker sandboxes or your own machine as the runtime."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 표준 외(저장소에서 확인 필요)",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "vercel-labs/agent-desktop",
+          "name": "agent-desktop",
+          "url": "https://github.com/vercel-labs/agent-desktop",
+          "description": "Computer use CLI for AI agents",
+          "stars": 26340,
+          "forks": 1976,
+          "language": "Rust",
+          "topics": [
+            "accessibility",
+            "accessibility-api",
+            "ai-agents",
+            "automation",
+            "cli",
+            "computer-use",
+            "computer-use-agent",
+            "computer-use-agents",
+            "desktop-automation",
+            "macos",
+            "mcp",
+            "rust"
+          ],
+          "created_at": "2026-02-19T18:00:49Z",
+          "updated_at": "2026-11-23T21:14:59Z",
+          "homepage": "https://agent-browser.dev/desktop",
+          "license": "Apache-2.0",
+          "stars_change": 206,
+          "rank": 8,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Computer use CLI for AI agents",
+            "features": [],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README에서 기능 목록을 찾지 못함 — 저장소에서 직접 확인 필요.",
+            "source": "metadata",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "citrolabs/ego-lite",
+          "name": "ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "stars": 24176,
+          "forks": 1375,
+          "language": "JavaScript",
+          "topics": [
+            "agent-skills",
+            "ai-agent",
+            "automation",
+            "browser",
+            "browser-automation",
+            "claude-code",
+            "codex",
+            "hermes-agent",
+            "skills",
+            "skills-sh"
+          ],
+          "created_at": "2026-04-16T12:51:09Z",
+          "updated_at": "2026-11-23T12:01:05Z",
+          "homepage": "https://lite.ego.app",
+          "license": "MIT",
+          "stars_change": 145,
+          "rank": 9,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+            "features": [],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README에서 기능 목록을 찾지 못함 — 저장소에서 직접 확인 필요.",
+            "source": "metadata",
+            "category": "업무 자동화"
+          }
+        },
+        {
+          "id": "wangzan101/Mika",
+          "name": "Mika",
+          "url": "https://github.com/wangzan101/Mika",
+          "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+          "stars": 9762,
+          "forks": 2184,
+          "language": "Kotlin",
+          "topics": [
+            "accessibility",
+            "ai-agent",
+            "android",
+            "automation",
+            "jetpack-compose",
+            "kotlin",
+            "llm",
+            "mobile-agent"
+          ],
+          "created_at": "2026-10-29T14:34:07Z",
+          "updated_at": "2026-11-23T09:42:27Z",
+          "homepage": "https://mikaphone.com",
+          "license": "Apache-2.0",
+          "stars_change": 134,
+          "rank": 10,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+            "features": [
+              "Install: download the APK from Releases.",
+              "Connect a model: in Settings › Model, pick a provider and enter an API key, or just sign in with an account (models and sign-in).",
+              "To operate phone apps: follow the \"Set up phone control\" wizard in Settings and pair wireless debugging on the phone once (setup guide). Skip this if you only want chat, web and files."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "업무 자동화"
+          }
+        }
+      ]
+    },
+    {
+      "name": "데이터 분석",
+      "repos": [
+        {
+          "id": "mvanhorn/last30days-skill",
+          "name": "last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "stars": 73416,
+          "forks": 6478,
+          "language": "Python",
+          "topics": [
+            "agent-skills",
+            "artificial-intelligence",
+            "automation",
+            "bot",
+            "command-line",
+            "data-science",
+            "dsh",
+            "dsh-plugin",
+            "golang",
+            "instagram",
+            "llms",
+            "nlp",
+            "osint",
+            "polymarket",
+            "python3",
+            "reddit",
+            "terminal",
+            "tiktok",
+            "twitter",
+            "youtube"
+          ],
+          "created_at": "2026-01-23T20:37:37Z",
+          "updated_at": "2026-11-23T23:21:30Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": 740,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+            "features": [
+              "Patent Secret Signals: a company run reads that month's US patent filings, with no key, and flags only the ones that are out of character or describe something unannounced.",
+              "Jobs Page Secret Signals: it reads the company's own careers page and flags the roles that give away what's coming, including new teams nobody has covered yet.",
+              "Quote lines: the best Reddit, X, YouTube, TikTok, and Instagram comments sit on their own line under the story they back up, translated when needed, and a line said in a video can be quoted too.",
+              "Polymarket odds line: one line under the story it bears on, with how much the odds moved.",
+              "Yahoo Finance line: a listed company's share price over the last 30 days next to the S&P 500, plus its biggest single-day move."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "hicccc77/WeFlow",
+          "name": "WeFlow",
+          "url": "https://github.com/hicccc77/WeFlow",
+          "description": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
+          "stars": 16192,
+          "forks": 911,
+          "language": "기타",
+          "topics": [
+            "annual-report",
+            "data-analysis",
+            "data-visualization",
+            "message",
+            "wechat"
+          ],
+          "created_at": "2026-01-07T13:40:57Z",
+          "updated_at": "2026-11-21T07:36:13Z",
+          "homepage": "https://weflow.top",
+          "license": "NOASSERTION",
+          "stars_change": 7,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
+            "features": [],
+            "use_cases": [],
+            "facts": [
+              "라이선스 표준 외(저장소에서 확인 필요)",
+              "마지막 커밋 3일 전(2026-11-21)",
+              "공개 2026년"
+            ],
+            "cautions": "README에서 기능 목록을 찾지 못함 — 저장소에서 직접 확인 필요.",
+            "source": "metadata",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "opengeos/GeoLibre",
+          "name": "GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+          "stars": 8784,
+          "forks": 988,
+          "language": "TypeScript",
+          "topics": [
+            "cesium",
+            "data-science",
+            "duckdb",
+            "geolibre",
+            "geospatial",
+            "gis",
+            "mapbox",
+            "maplibre",
+            "maplibre-gl-js",
+            "tauri-app"
+          ],
+          "created_at": "2026-05-27T19:34:31Z",
+          "updated_at": "2026-11-23T23:11:48Z",
+          "homepage": "https://geolibre.app",
+          "license": "MIT",
+          "stars_change": 12,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+            "features": [
+              "Launch GeoLibre Web — the full app in your browser, nothing to install",
+              "Download the desktop app — Windows, macOS, and Linux installers",
+              "Get it on the Mac App Store — the sandboxed macOS build",
+              "Get it on the App Store — the native iOS app for iPhone and iPad",
+              "Get it on Google Play — the native Android app"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "OpenSenseNova/SenseNova-Skills",
+          "name": "SenseNova-Skills",
+          "url": "https://github.com/OpenSenseNova/SenseNova-Skills",
+          "description": "Modular SenseNova skills for building AI-powered office assistants and productivity workflows",
+          "stars": 6109,
+          "forks": 442,
+          "language": "JavaScript",
+          "topics": [
+            "agent",
+            "agent-skills",
+            "ai-agents",
+            "ai-assistant",
+            "data-analysis",
+            "document-processing",
+            "office-automation",
+            "presentation-slides"
+          ],
+          "created_at": "2026-04-14T06:21:51Z",
+          "updated_at": "2026-11-13T10:18:04Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": 1,
+          "rank": 4,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Modular SenseNova skills for building AI-powered office assistants and productivity workflows",
+            "features": [
+              "2026-11-13: Image Studio is now available: browse bilingual style cases, edit prompts, and generate or edit U1.5 images, with optional ACP-assisted prompt adaptation through Codex, Claude Code, or Hermes.",
+              "2026-10-29: Code Video adds code-driven MP4 creation with sound, frame review, and output verification.",
+              "2026-10-09: Proactive Agent adds OpenClaw Gateway integration alongside Hermes, with accepted suggestions continuing in the original session."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 11일 전(2026-11-13)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "ChartGPU/ChartGPU",
+          "name": "ChartGPU",
+          "url": "https://github.com/ChartGPU/ChartGPU",
+          "description": "Beautiful, open source, WebGPU-based charting library",
+          "stars": 3278,
+          "forks": 112,
+          "language": "TypeScript",
+          "topics": [
+            "awesome-list",
+            "candlestick-chart",
+            "chart",
+            "chart-library",
+            "charting-library",
+            "charts",
+            "data-analysis",
+            "data-visualization",
+            "financial-charts",
+            "gpu",
+            "high-performance",
+            "open-source",
+            "scatter-plot",
+            "shaders",
+            "typescript",
+            "webgpu",
+            "wgsl"
+          ],
+          "created_at": "2026-01-17T00:52:00Z",
+          "updated_at": "2026-10-18T15:07:17Z",
+          "homepage": "https://chartgpu.io",
+          "license": "MIT",
+          "stars_change": 1,
+          "rank": 5,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Beautiful, open source, WebGPU-based charting library",
+            "features": [
+              "Dense time series and multi-million-point series",
+              "Streaming updates (appendData with optional ring capacity)",
+              "Shared-device multi-chart dashboards",
+              "2D series plus cartesian3d (pointCloud3d, surface3d)"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 36일 전(2026-10-19)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "데이터 분석"
+          }
+        },
+        {
+          "id": "aipoch/medical-research-skills",
+          "name": "medical-research-skills",
+          "url": "https://github.com/aipoch/medical-research-skills",
+          "description": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+          "stars": 2082,
+          "forks": 205,
+          "language": "Python",
+          "topics": [
+            "ai",
+            "bioinformatics",
+            "biology",
+            "cancer-genomics",
+            "computational-biology",
+            "data-analysis",
+            "data-visualization",
+            "differential-expression",
+            "genomics",
+            "medical",
+            "medical-research",
+            "science",
+            "single-cell"
+          ],
+          "created_at": "2026-02-04T07:50:06Z",
+          "updated_at": "2026-11-20T06:00:50Z",
+          "homepage": "https://aipoch.com/agent-skills",
+          "license": "MIT",
+          "stars_change": 1,
+          "rank": 6,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing.",
+            "features": [
+              "Literature ​authenticity constraints​: Implementing hard rules",
+              "​Research type identification​: We first determine the study type, then execute different logical pathways",
+              "Medical-specific prompt logic"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 4일 전(2026-11-20)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "데이터 분석"
+          }
+        }
+      ]
+    },
+    {
+      "name": "LLM·RAG",
+      "repos": [
+        {
+          "id": "Graphify-Labs/graphify",
+          "name": "graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "stars": 152522,
+          "forks": 14660,
+          "language": "Python",
+          "topics": [
+            "ai-agents",
+            "antigravity",
+            "ast",
+            "claude-code",
+            "code-analysis",
+            "code-search",
+            "codex",
+            "cursor",
+            "developer-tools",
+            "gemini",
+            "graphify",
+            "graphrag",
+            "knowledge-graph",
+            "leiden",
+            "llm",
+            "mcp",
+            "openclaw",
+            "rag",
+            "skills",
+            "tree-sitter"
+          ],
+          "created_at": "2026-04-03T15:49:07Z",
+          "updated_at": "2026-11-23T19:14:02Z",
+          "homepage": "graphify.com",
+          "license": "Apache-2.0",
+          "stars_change": 486,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+            "features": [
+              "Code maps for free, fully local. Code is parsed with tree-sitter AST: deterministic, no LLM, nothing leaves your machine. (Docs, PDFs, images and video use your assistant's model, or a configured API key, for a semantic ",
+              "Every edge is explained. Each connection is tagged EXTRACTED (explicit in the source) or INFERRED (resolved by graphify), so you can tell what was read directly from what was inferred.",
+              "Not a vector index. No embeddings, no vector store: a real graph you traverse. Ask a question, trace the path between two things, or explain one concept."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "headroomlabs-ai/headroom",
+          "name": "headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "stars": 80665,
+          "forks": 6321,
+          "language": "Python",
+          "topics": [
+            "agent",
+            "ai",
+            "anthropic",
+            "claude-code",
+            "compression",
+            "context-engineering",
+            "context-window",
+            "cursor",
+            "fastapi",
+            "langchain",
+            "llm",
+            "mcp",
+            "openai",
+            "prompt-engineering",
+            "proxy",
+            "python",
+            "rag",
+            "token-optimization",
+            "tokens",
+            "typescript"
+          ],
+          "created_at": "2026-01-07T19:58:51Z",
+          "updated_at": "2026-11-23T21:46:34Z",
+          "homepage": "https://docs.headroomlabs.ai/docs",
+          "license": "Apache-2.0",
+          "stars_change": 167,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+            "features": [
+              "Library — compress(messages) in Python or TypeScript, inline in any app.",
+              "Proxy — headroom proxy --port 8787, zero code changes, any language.",
+              "Agent wrap — headroom wrap claude|codex|grok|copilot|cursor|aider|opencode|cline|continue|goose|openhands|openclaw|vibe|omp|droid|zcode in one command; undo with headroom unwrap .",
+              "MCP server — headroomcompress, headroomretrieve, headroomstats for any MCP client.",
+              "Cross-agent memory — one shared store across Claude, Codex, Gemini and Grok, with automatic dedup."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "virgiliojr94/book-to-skill",
+          "name": "book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+          "stars": 38867,
+          "forks": 4140,
+          "language": "Python",
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "book-to-skill",
+            "context-engineering",
+            "document-processing",
+            "edtech",
+            "knowledge-base",
+            "knowledge-management",
+            "llm",
+            "pdf-to-markdown",
+            "rag",
+            "self-study",
+            "study-tools"
+          ],
+          "created_at": "2026-05-01T02:09:39Z",
+          "updated_at": "2026-11-22T21:22:39Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": 110,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+            "features": [
+              "Point or Search — give it a local file/folder (/book-to-skill ./my-book.pdf) or search remotely via MCP (/book-to-skill search \"Pro Git\").",
+              "It distills the book into a skill — frameworks, decision rules, anti-patterns, and per-chapter files. Structure, not a summary.",
+              "Your agent loads it on demand — ask /my-book replication and it reads the right chapter and answers from the real content, no hallucination."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "xerj-org/xerj",
+          "name": "xerj",
+          "url": "https://github.com/xerj-org/xerj",
+          "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+          "stars": 20250,
+          "forks": 1325,
+          "language": "Rust",
+          "topics": [
+            "agent-memory",
+            "ai-agents",
+            "bm25",
+            "claude-code",
+            "cli",
+            "code-search",
+            "cursor",
+            "database",
+            "elasticsearch",
+            "full-text-search",
+            "hybrid-search",
+            "jsonl",
+            "local-first",
+            "mcp",
+            "mcp-server",
+            "model-context-protocol",
+            "rag",
+            "rust",
+            "search-engine",
+            "vector-search"
+          ],
+          "created_at": "2026-06-30T04:32:45Z",
+          "updated_at": "2026-11-23T23:11:21Z",
+          "homepage": "https://xerj.org",
+          "license": "Apache-2.0",
+          "stars_change": 833,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+            "features": [
+              "Reference coding: index the OSS projects nearest your problem and retrieve how they solved it before writing code (the measured use case above).",
+              "Codebase Q&A and RAG: index a repo, ask for the mechanism, get the passage with file:line instead of a directory listing.",
+              "Security audits: index a target tree and query for sink patterns, secrets and dangerous calls across every file type at once.",
+              "Log and incident analysis: mixed formats become typed indices with the aggregations you would expect from Elasticsearch.",
+              "Agent long-term memory: /memory/{namespace} stores what an agent learns and recalls it by meaning next session."
+            ],
+            "use_cases": [
+              "Reference coding: your coding agent retrieves how peer projects already solved it instead of re-deriving. Measured on four purpose-built libraries: 2.7x fewer output tokens than grep-driven coding (26x vs memory alone, w",
+              "AI search and RAG: full-text, vector and hybrid retrieval in one query, with no separate vector database.",
+              "Agent memory: durable recall with a knowledge graph over your own documents."
+            ],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "rocketride-org/rocketride-server",
+          "name": "rocketride-server",
+          "url": "https://github.com/rocketride-org/rocketride-server",
+          "description": "RocketRide is an open source AI meta-harness with the only enterprise-grade runtime built on C++. Build, test and publish durable agents that scale in production.",
+          "stars": 19992,
+          "forks": 8666,
+          "language": "Python",
+          "topics": [
+            "agent-framework",
+            "agent-harness",
+            "agent-orchestration",
+            "agentic-ai",
+            "ai-agents",
+            "ai-observability",
+            "cpp",
+            "document-processing",
+            "llm",
+            "llmops",
+            "mcp",
+            "mcp-server",
+            "meta-harness",
+            "model-context-protocol",
+            "open-source",
+            "rag",
+            "self-hosted",
+            "visual-programming",
+            "vscode-extension",
+            "workflow-engine"
+          ],
+          "created_at": "2026-02-11T17:02:53Z",
+          "updated_at": "2026-11-23T22:58:36Z",
+          "homepage": "https://rocketride.ai",
+          "license": "MIT",
+          "stars_change": 1,
+          "rank": 5,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "RocketRide is an open source AI meta-harness with the only enterprise-grade runtime built on C++. Build, test and publish durable agents that scale in production.",
+            "features": [
+              "Run it locally. Follow the Quick Start and pick Local when asked. That's the whole install.",
+              "Open a working pipeline. Open examples/document-processor.pipe in your IDE. Give it a PDF or an image and it pulls out the text (including text inside images), finds names, addresses and other personal data, and returns ",
+              "Call it from your code. The pipeline is now a function your service can call. Run it from the folder you opened in your IDE: the extension writes the engine's connection details into a .env there, and the SDK reads them ",
+              "Add a model. Drop an llm node between the source and the response and add one API key. Same pipeline, now with an LLM in the loop.",
+              "Search by meaning. examples/rag-pipeline.pipe is the standard \"ask questions about my documents\" pattern. Needs one LLM key and a vector database (Qdrant can run locally)."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "poco-ai/Agentero",
+          "name": "Agentero",
+          "url": "https://github.com/poco-ai/Agentero",
+          "description": "Unified research workspace for humans & agents — PDF Q&A with citations, Vault, writing. 为人与 Agent 协作的科研工作台；补齐 Zotero 时代的人机上下文断点。",
+          "stars": 2821,
+          "forks": 183,
+          "language": "TypeScript",
+          "topics": [
+            "academic",
+            "ai-agents",
+            "citations",
+            "desktop-app",
+            "dsh-plugin",
+            "knowledge-base",
+            "literature-review",
+            "llm",
+            "mcp",
+            "pdf",
+            "rag",
+            "research",
+            "research-assistant",
+            "tauri",
+            "typescript",
+            "writing-assistant"
+          ],
+          "created_at": "2026-07-07T06:55:12Z",
+          "updated_at": "2026-11-23T17:13:39Z",
+          "homepage": "https://agentero.app",
+          "license": "MIT",
+          "stars_change": 55,
+          "rank": 6,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Unified research workspace for humans & agents — PDF Q&A with citations, Vault, writing. 为人与 Agent 协作的科研工作台；补齐 Zotero 时代的人机上下文断点。",
+            "features": [
+              "来回复制资料。 论文放在 Zotero，笔记写在 Obsidian，讨论留在网页对话里。想请 Agent 对照原文和之前的笔记，经常得在几个应用间复制粘贴。",
+              "PDF 里的结构容易读错。 双栏的阅读顺序、跨页表格和公式都可能解析错。转成 Markdown 和 LaTeX 后，模型更容易读到这些结构。",
+              "常用功能要分别配置。 用 AI 读论文、翻译全文、同步笔记，往往要装几个插件，升级后还要检查能不能继续用。",
+              "搜到一批论文后，还要逐篇保存。 用 Deep Research 或自动化工具找论文很快，但把结果加进自己的论文库常常还得手动操作。"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "ConardLi/garden-skills",
+          "name": "garden-skills",
+          "url": "https://github.com/ConardLi/garden-skills",
+          "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+          "stars": 15703,
+          "forks": 1776,
+          "language": "JavaScript",
+          "topics": [
+            "agent",
+            "claude",
+            "gpt-image-2",
+            "rag",
+            "skills",
+            "web-design"
+          ],
+          "created_at": "2026-04-21T11:56:17Z",
+          "updated_at": "2026-11-19T12:10:48Z",
+          "homepage": "https://github.com/ConardLi/garden-skills",
+          "license": "MIT",
+          "stars_change": 47,
+          "rank": 7,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+            "features": [
+              "Deterministic render(t) pipeline: stills, contact sheets, three-direction boards, proxies and masters all come from the same page. Motion blur, supersampling and film grain are render flags.",
+              "One timeline for picture and sound: cuts, hits and SFX share the same numbers. Music can be synthesized (a zero-dependency built-in synth, or Tone.js with a sampled piano), or cut to the user's own track with beat and dr",
+              "A 43-style library as a starting point: swiss-editorial, ink-wash, risograph, synthwave, soft 3D, cinematic title, pixel game, comic panels, guochao patterns, painterly strokes, whiteboard explainers, concept morphs, ill",
+              "A sound direction, not a default song: the brief sets a sound benchmark, groove, harmony, palette and dramatic arc, plus a list of audio defaults to avoid.",
+              "Two checkpoints: confirm requirements, then style frames (three distinct directions when unspecified), followed by autonomous production. Creative freedom remains available."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 5일 전(2026-11-19)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "Snailclimb/interview-guide",
+          "name": "interview-guide",
+          "url": "https://github.com/Snailclimb/interview-guide",
+          "description": "基于 Spring Boot 4.1、Java 25、Spring AI 2.0、React、PostgreSQL/pgvector、Redis 和 RustFS 构建的开源 AI 面试平台，支持简历智能分析、模拟面试、语音面试和知识库 RAG。",
+          "stars": 3541,
+          "forks": 800,
+          "language": "Java",
+          "topics": [
+            "gradle",
+            "itext7",
+            "mapstruct",
+            "pgvector",
+            "postgresql",
+            "rag",
+            "redis",
+            "redisson",
+            "redisstreams",
+            "rustfs",
+            "springai",
+            "springboot",
+            "springboot4",
+            "tika"
+          ],
+          "created_at": "2026-01-03T11:25:48Z",
+          "updated_at": "2026-10-08T23:01:56Z",
+          "homepage": "https://javaguide.cn/zhuanlan/interview-guide.html",
+          "license": "AGPL-3.0",
+          "stars_change": 13,
+          "rank": 8,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "基于 Spring Boot 4.1、Java 25、Spring AI 2.0、React、PostgreSQL/pgvector、Redis 和 RustFS 构建的开源 AI 面试平台，支持简历智能分析、模拟面试、语音面试和知识库 RAG。",
+            "features": [
+              "数据存储为什么选择 PostgreSQL + pgvector？PG 的向量数据存储功能够用了，精简架构，不想引入太多组件。",
+              "为什么引入 Redis？",
+              "Redis 替代 ConcurrentHashMap 实现面试会话的缓存。",
+              "基于 Redis Stream 实现简历分析、知识库向量化等场景的异步（还能解耦，分析和向量化可以使用其他编程语言来做）。不使用 Kafka 这类成熟的消息队列，也是不想引入太多组件。",
+              "构建工具为什么选择 Gradle？个人更喜欢用 Gradle，也写过相关的文章：Gradle核心概念总结。"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 AGPL-3.0",
+              "마지막 커밋 46일 전(2026-10-09)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "didilili/ai-agents-from-zero",
+          "name": "ai-agents-from-zero",
+          "url": "https://github.com/didilili/ai-agents-from-zero",
+          "description": "🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化",
+          "stars": 6112,
+          "forks": 839,
+          "language": "Python",
+          "topics": [
+            "agent",
+            "agent-framework",
+            "agentic-ai",
+            "ai-agent",
+            "aigc",
+            "coze",
+            "cursor",
+            "deepagents",
+            "dify",
+            "gpt",
+            "langchain",
+            "langgraph",
+            "llm",
+            "mcp",
+            "rag",
+            "skills",
+            "tutorial"
+          ],
+          "created_at": "2026-01-29T02:49:11Z",
+          "updated_at": "2026-11-06T09:59:44Z",
+          "homepage": "https://didilili.github.io/ai-agents-from-zero/",
+          "license": "MIT",
+          "stars_change": 12,
+          "rank": 9,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化",
+            "features": [
+              "真面经，抓高频：按公司、岗位看真实问法，重点练面试官反复问的题。",
+              "好题解，讲透彻：结合原理、代码、图解与追问，帮你接住「展开讲讲」。",
+              "项目面，有底气：拆架构、看选型、读源码，配简历示例与场景化答法。"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 18일 전(2026-11-06)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "LLM·RAG"
+          }
+        },
+        {
+          "id": "NVIDIA/skills",
+          "name": "skills",
+          "url": "https://github.com/NVIDIA/skills",
+          "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+          "stars": 4125,
+          "forks": 553,
+          "language": "Python",
+          "topics": [
+            "agent-skills",
+            "agentic-ai",
+            "ai-agents",
+            "claude-code",
+            "codex",
+            "coding-agents",
+            "cuda",
+            "developer-tools",
+            "llm",
+            "omniverse",
+            "physical-ai",
+            "rag",
+            "robotics",
+            "simulation"
+          ],
+          "created_at": "2026-02-25T21:54:05Z",
+          "updated_at": "2026-11-23T22:56:39Z",
+          "homepage": "https://docs.nvidia.com/skills",
+          "license": "Apache-2.0",
+          "stars_change": 12,
+          "rank": 10,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+            "features": [],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README에서 기능 목록을 찾지 못함 — 저장소에서 직접 확인 필요.",
+            "source": "metadata",
+            "category": "LLM·RAG"
+          }
+        }
+      ]
+    },
+    {
+      "name": "문서·보고서 자동화",
+      "repos": [
+        {
+          "id": "virgiliojr94/book-to-skill",
+          "name": "book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+          "stars": 38867,
+          "forks": 4140,
+          "language": "Python",
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "book-to-skill",
+            "context-engineering",
+            "document-processing",
+            "edtech",
+            "knowledge-base",
+            "knowledge-management",
+            "llm",
+            "pdf-to-markdown",
+            "rag",
+            "self-study",
+            "study-tools"
+          ],
+          "created_at": "2026-05-01T02:09:39Z",
+          "updated_at": "2026-11-22T21:22:39Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": 110,
+          "rank": 1,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+            "features": [
+              "Point or Search — give it a local file/folder (/book-to-skill ./my-book.pdf) or search remotely via MCP (/book-to-skill search \"Pro Git\").",
+              "It distills the book into a skill — frameworks, decision rules, anti-patterns, and per-chapter files. Structure, not a summary.",
+              "Your agent loads it on demand — ask /my-book replication and it reads the right chapter and answers from the real content, no hallucination."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "storytold/pdfcraft",
+          "name": "pdfcraft",
+          "url": "https://github.com/storytold/pdfcraft",
+          "description": "PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust",
+          "stars": 21586,
+          "forks": 7774,
+          "language": "Rust",
+          "topics": [
+            "document-processing",
+            "documents",
+            "pdf",
+            "pdf-generation",
+            "pdf-processing",
+            "pdf-tools",
+            "pdf-viewer",
+            "rust"
+          ],
+          "created_at": "2026-09-30T13:39:37Z",
+          "updated_at": "2026-11-23T21:07:16Z",
+          "homepage": "https://getartcraft.com/apps/pdfcraft",
+          "license": "Apache-2.0",
+          "stars_change": 113,
+          "rank": 2,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust",
+            "features": [
+              "Deep zoom stays sharp. Large pages render in tiles, so text stays crisp at any magnification.",
+              "Built to survive bad files. Every page renders in isolation and damaged documents are repaired. Across the 983-file pdf.js test corpus the result is 0 crashes.",
+              "Layouts for every task: continuous, single page, two-up, view rotation, full screen and a distraction-free Read mode.",
+              "Light and dark themes, both designed to be easy on the eyes for long sessions."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "rocketride-org/rocketride-server",
+          "name": "rocketride-server",
+          "url": "https://github.com/rocketride-org/rocketride-server",
+          "description": "RocketRide is an open source AI meta-harness with the only enterprise-grade runtime built on C++. Build, test and publish durable agents that scale in production.",
+          "stars": 19992,
+          "forks": 8666,
+          "language": "Python",
+          "topics": [
+            "agent-framework",
+            "agent-harness",
+            "agent-orchestration",
+            "agentic-ai",
+            "ai-agents",
+            "ai-observability",
+            "cpp",
+            "document-processing",
+            "llm",
+            "llmops",
+            "mcp",
+            "mcp-server",
+            "meta-harness",
+            "model-context-protocol",
+            "open-source",
+            "rag",
+            "self-hosted",
+            "visual-programming",
+            "vscode-extension",
+            "workflow-engine"
+          ],
+          "created_at": "2026-02-11T17:02:53Z",
+          "updated_at": "2026-11-23T22:58:36Z",
+          "homepage": "https://rocketride.ai",
+          "license": "MIT",
+          "stars_change": 1,
+          "rank": 3,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "RocketRide is an open source AI meta-harness with the only enterprise-grade runtime built on C++. Build, test and publish durable agents that scale in production.",
+            "features": [
+              "Run it locally. Follow the Quick Start and pick Local when asked. That's the whole install.",
+              "Open a working pipeline. Open examples/document-processor.pipe in your IDE. Give it a PDF or an image and it pulls out the text (including text inside images), finds names, addresses and other personal data, and returns ",
+              "Call it from your code. The pipeline is now a function your service can call. Run it from the folder you opened in your IDE: the extension writes the engine's connection details into a .env there, and the SDK reads them ",
+              "Add a model. Drop an llm node between the source and the response and add one API key. Same pipeline, now with an LLM in the loop.",
+              "Search by meaning. examples/rag-pipeline.pipe is the standard \"ask questions about my documents\" pattern. Needs one LLM key and a vector database (Qdrant can run locally)."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "run-llama/liteparse",
+          "name": "liteparse",
+          "url": "https://github.com/run-llama/liteparse",
+          "description": "A fast, helpful, and open-source document parser",
+          "stars": 13101,
+          "forks": 907,
+          "language": "Rust",
+          "topics": [
+            "document-ocr",
+            "document-processing",
+            "ocr",
+            "ocr-recognition",
+            "pdf",
+            "pdf-parser",
+            "text-extraction"
+          ],
+          "created_at": "2026-02-09T22:16:30Z",
+          "updated_at": "2026-11-23T22:31:26Z",
+          "homepage": "https://developers.llamaindex.ai/liteparse/",
+          "license": "Apache-2.0",
+          "stars_change": 23,
+          "rank": 4,
+          "selection": "누적 인기",
+          "analysis": {
+            "summary": "A fast, helpful, and open-source document parser",
+            "features": [
+              "Fast Text Parsing: Spatial text parsing using PDFium, ~2-5ms per page",
+              "Flexible OCR System",
+              "Built-in: Tesseract (zero setup, bundled with the library)",
+              "ocria-nano (opt-in): LiteParse's own CPU models (8.1M parameters): line detector, script router, four recognizers and LayoutNet, a learned table and layout model. lit models pull ocria-nano once, then it is the OCR backe",
+              "HTTP Servers: Plug in any OCR server (EasyOCR, PaddleOCR, custom)"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 Apache-2.0",
+              "마지막 커밋 오늘(2026-11-24)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "wxyhgk/retain-pdf",
+          "name": "retain-pdf",
+          "url": "https://github.com/wxyhgk/retain-pdf",
+          "description": "在保留版面、公式与结构的前提下进行 PDF 翻译，适用于科研与技术文档",
+          "stars": 2744,
+          "forks": 303,
+          "language": "Python",
+          "topics": [
+            "document-ai",
+            "document-processing",
+            "layout-preserving",
+            "ocr",
+            "pdf",
+            "scientific-papers",
+            "translation",
+            "typst"
+          ],
+          "created_at": "2026-03-29T10:55:41Z",
+          "updated_at": "2026-11-23T12:39:15Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": 5,
+          "rank": 5,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "在保留版面、公式与结构的前提下进行 PDF 翻译，适用于科研与技术文档",
+            "features": [
+              "Windows：Setup.exe（提示「Windows 已保护你的电脑」时点「更多信息」→「仍要运行」）",
+              "macOS：.dmg（Apple 芯片，已签名公证）",
+              "Linux：.deb（sudo apt install ./RetainPDF-Linux-.deb）"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 1일 전(2026-11-23)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "shadcn-labs/pdfcn",
+          "name": "pdfcn",
+          "url": "https://github.com/shadcn-labs/pdfcn",
+          "description": "Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.",
+          "stars": 3218,
+          "forks": 154,
+          "language": "TypeScript",
+          "topics": [
+            "forme",
+            "html-to-pdf",
+            "jsx",
+            "pdf",
+            "pdf-generation",
+            "pdf-generator",
+            "react",
+            "rust",
+            "shadcn",
+            "takumi",
+            "typescript",
+            "wasm"
+          ],
+          "created_at": "2026-08-11T11:55:41Z",
+          "updated_at": "2026-11-11T13:00:12Z",
+          "homepage": "https://pdfcn.dev",
+          "license": "MIT",
+          "stars_change": 4,
+          "rank": 6,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.",
+            "features": [
+              "⚡ Two rendering bases — Generate PDFs with Takumi or Forme",
+              "🎯 Zero config — Works out of the box with sensible defaults",
+              "👀 Live previews — Render every component and block directly in the documentation",
+              "🎨 Fully customizable — Sensible props and shared themes; you own the code",
+              "📦 shadcn/ui compatible — Uses the same registry format and CLI workflow"
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 13일 전(2026-11-11)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "문서·보고서 자동화"
+          }
+        },
+        {
+          "id": "OpenSenseNova/SenseNova-Skills",
+          "name": "SenseNova-Skills",
+          "url": "https://github.com/OpenSenseNova/SenseNova-Skills",
+          "description": "Modular SenseNova skills for building AI-powered office assistants and productivity workflows",
+          "stars": 6109,
+          "forks": 442,
+          "language": "JavaScript",
+          "topics": [
+            "agent",
+            "agent-skills",
+            "ai-agents",
+            "ai-assistant",
+            "data-analysis",
+            "document-processing",
+            "office-automation",
+            "presentation-slides"
+          ],
+          "created_at": "2026-04-14T06:21:51Z",
+          "updated_at": "2026-11-13T10:18:04Z",
+          "homepage": "",
+          "license": "MIT",
+          "stars_change": 1,
+          "rank": 7,
+          "selection": "급상승",
+          "analysis": {
+            "summary": "Modular SenseNova skills for building AI-powered office assistants and productivity workflows",
+            "features": [
+              "2026-11-13: Image Studio is now available: browse bilingual style cases, edit prompts, and generate or edit U1.5 images, with optional ACP-assisted prompt adaptation through Codex, Claude Code, or Hermes.",
+              "2026-10-29: Code Video adds code-driven MP4 creation with sound, frame review, and output verification.",
+              "2026-10-09: Proactive Agent adds OpenClaw Gateway integration alongside Hermes, with accepted suggestions continuing in the original session."
+            ],
+            "use_cases": [],
+            "facts": [
+              "라이선스 MIT",
+              "마지막 커밋 11일 전(2026-11-13)",
+              "공개 2026년"
+            ],
+            "cautions": "README 원문에서 뽑은 내용(영문)임.",
+            "source": "readme",
+            "category": "문서·보고서 자동화"
+          }
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "methodology": "2026-01-01 이후 만들어진 저장소 중 스타 2,000개 이상만 분야별 최대 10개(모자라면 스타 순으로 최소 5개). 그중 절반은 누적 스타 상위, 나머지는 직전 수집일 대비 스타 증가 상위(비교 자료 없으면 누적 인기 보충). 설명은 README 발췌를 근거로 Claude가 한국어로 요약(키가 없으면 README 원문 발췌)."
+}
